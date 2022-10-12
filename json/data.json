@@ -55,67 +55,67 @@
             "id":"1",
             "name":"Alternative'a'",
             "sampletext":"a — Café",
-            "code":"SS01"
+            "code":"ss01"
          },
          {
             "id":"2",
             "name":"Alternative'g'",
             "sampletext":"g – gemini",
-            "code":"SS02"
+            "code":"ss02"
          },
          {
             "id":"3",
             "name":"Alternative'G'",
             "sampletext":"G – HEGEL",
-            "code":"SS03"
+            "code":"ss03"
          },
          {
             "id":"4",
             "name":"Alternative'R'",
             "sampletext":"R – GRAPH",
-            "code":"SS04"
+            "code":"ss04"
          },
          {
             "id":"5",
             "name":"Round Set",
             "sampletext":".!:;i – fw: hi!",
-            "code":"SS05"
+            "code":"ss05"
          },
          {
             "id":"6",
             "name":"Sharp Set",
             "sampletext":",;‘’ – ‘Yes, No’",
-            "code":"SS06"
+            "code":"ss06"
          },
          {
             "id":"7",
             "name":"Tabular Numbers",
             "sampletext":"1234567890",
-            "code":"TNUM"
+            "code":"tnum"
          },
          {
             "id":"8",
             "name":"Case Sensitive Forms",
             "sampletext":"H–[H]",
-            "code":"CASE"
+            "code":"case"
          },
          {
             "id":"9",
             "name":"Ligatures",
             "sampletext":"ff fl fi ffl ffi",
-            "code":"LIGA"
+            "code":"liga"
          },
          {
             "id":"10",
             "name":"Discretionary Ligatures",
             "sampletext":"fh fk fb",
-            "code":"DLIG"
+            "code":"dlig"
          },
          {
             "id":"11",
             "name":"Slashed Zero",
             "sampletext":"0",
-            "code":"ZERO"
+            "code":"zero"
          }
       ]
    },
