@@ -1,108 +1,114 @@
 [
-    {
-       "id":"1",
-       "name":"kabeljauw",
-       "axis":[
-          "wght",
-          "opsz"
-       ],
-       "styles":[
-          {
-             "name":"Regular",
-             "value":"400"
-          },
-          {
-             "name":"Medium",
-             "value":"500"
-          },
-          {
-             "name":"Semi Bold",
-             "value":"600"
-          },
-          {
-             "name":"Bold",
-             "value":"700"
-          },
-          {
-             "name":"Extra Bold",
-             "value":"800"
-          },
-          {
-             "name":"Heavy",
-             "value":"900"
-          }
-       ],
-       "features":[
-          {
-             "id":"1",
-             "name":"Alternative'a'",
-             "sampletext":"a — Café",
-             "code":"SS01"
-          },
-          {
-             "id":"2",
-             "name":"Alternative'g'",
-             "sampletext":"g – gemini",
-             "code":"SS02"
-          },
-          {
-             "id":"3",
-             "name":"Alternative'G'",
-             "sampletext":"G – HEGEL",
-             "code":"SS03"
-          },
-          {
-             "id":"4",
-             "name":"Alternative'R'",
-             "sampletext":"R – GRAPH",
-             "code":"SS04"
-          },
-          {
-             "id":"5",
-             "name":"Round Set",
-             "sampletext":".!:;i – fw: hi!",
-             "code":"SS05"
-          },
-          {
-             "id":"6",
-             "name":"Sharp Set",
-             "sampletext":",;‘’ – ‘Yes, No’",
-             "code":"SS06"
-          },
-          {
-             "id":"7",
-             "name":"Tabular Numbers",
-             "sampletext":"1234567890",
-             "code":"SS07"
-          },
-          {
-             "id":"8",
-             "name":"Case Sensitive Forms",
-             "sampletext":"H–[H]",
-             "code":"SS08"
-          },
-          {
-             "id":"9",
-             "name":"Ligatures",
-             "sampletext":"ff fl fi ffl ffi",
-             "code":"SS09"
-          },
-          {
-             "id":"10",
-             "name":"Discretionary Ligatures",
-             "sampletext":"fh fk fb",
-             "code":"SS10"
-          },
-          {
-             "id":"11",
-             "name":"Slashed Zero",
-             "sampletext":"0",
-             "code":"SS11"
-          }
-       ]
-    },
-    {
-       "id":"2",
-       "name":"avond"
-    }
- ]
+   {
+      "id":"1",
+      "name":"kabeljauw",
+      "axis":[
+         "wght",
+         "opsz"
+      ],
+      "styles":[
+         {
+            "name":"Regular",
+            "weight":"400",
+            "sampletext":"papardelle fungi"
+         },
+         {
+            "name":"Medium",
+            "weight":"500",
+            "sampletext":"system architecture"
+         },
+         {
+            "name":"Semi Bold",
+            "weight":"600",
+            "sampletext":"Embryogenesis"
+         },
+         {
+            "name":"Bold",
+            "weight":"700",
+            "sampletext":"Don't make me think"
+         },
+         {
+            "name":"Extra Bold",
+            "weight":"800",
+            "sampletext":"The Birth of Venus, 1485"
+         },
+         {
+            "name":"Heavy",
+            "weight":"900",
+            "sampletext":"The richest man in Babylon"
+         }
+      ],
+      "features":[
+         {
+            "id":"1",
+            "name":"Alternative'a'",
+            "sampletext":"a — Café",
+            "code":"SS01"
+         },
+         {
+            "id":"2",
+            "name":"Alternative'g'",
+            "sampletext":"g – gemini",
+            "code":"SS02"
+         },
+         {
+            "id":"3",
+            "name":"Alternative'G'",
+            "sampletext":"G – HEGEL",
+            "code":"SS03"
+         },
+         {
+            "id":"4",
+            "name":"Alternative'R'",
+            "sampletext":"R – GRAPH",
+            "code":"SS04"
+         },
+         {
+            "id":"5",
+            "name":"Round Set",
+            "sampletext":".!:;i – fw: hi!",
+            "code":"SS05"
+         },
+         {
+            "id":"6",
+            "name":"Sharp Set",
+            "sampletext":",;‘’ – ‘Yes, No’",
+            "code":"SS06"
+         },
+         {
+            "id":"7",
+            "name":"Tabular Numbers",
+            "sampletext":"1234567890",
+            "code":"SS07"
+         },
+         {
+            "id":"8",
+            "name":"Case Sensitive Forms",
+            "sampletext":"H–[H]",
+            "code":"SS08"
+         },
+         {
+            "id":"9",
+            "name":"Ligatures",
+            "sampletext":"ff fl fi ffl ffi",
+            "code":"SS09"
+         },
+         {
+            "id":"10",
+            "name":"Discretionary Ligatures",
+            "sampletext":"fh fk fb",
+            "code":"SS10"
+         },
+         {
+            "id":"11",
+            "name":"Slashed Zero",
+            "sampletext":"0",
+            "code":"SS11"
+         }
+      ]
+   },
+   {
+      "id":"2",
+      "name":"avond"
+   }
+]
