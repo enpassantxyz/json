@@ -115,6 +115,7 @@
    },
    {
       "id":"2",
-      "name":"avond"
+      "name":"avond",
+      "axis":"wght"
    }
 ]
