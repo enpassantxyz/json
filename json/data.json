@@ -8,32 +8,38 @@
       ],
       "styles":[
          {
+           "familyname":"Kabeljauw",
             "name":"Regular",
             "weight":"400",
             "sampletext":"papardelle fungi"
          },
          {
+           "familyname":"Kabeljauw",
             "name":"Medium",
             "weight":"500",
             "sampletext":"system architecture"
          },
          {
+           "familyname":"Kabeljauw",
             "name":"Semi Bold",
             "weight":"600",
             "sampletext":"Embryogenesis"
          },
          {
+           "familyname":"Kabeljauw",
             "name":"Bold",
             "weight":"700",
             "sampletext":"Don't make me think"
          },
          {
-            "name":"Extra Bold",
+           "familyname":"Kabeljauw",
+           "name":"Extra Bold",
             "weight":"800",
             "sampletext":"The Birth of Venus, 1485"
          },
          {
-            "name":"Heavy",
+           "familyname":"Kabeljauw",
+           "name":"Heavy",
             "weight":"900",
             "sampletext":"The richest man in Babylon"
          }
