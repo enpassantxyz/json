@@ -91,31 +91,31 @@
             "id":"7",
             "name":"Tabular Numbers",
             "sampletext":"1234567890",
-            "code":"SS07"
+            "code":"TNUM"
          },
          {
             "id":"8",
             "name":"Case Sensitive Forms",
             "sampletext":"H–[H]",
-            "code":"SS08"
+            "code":"CASE"
          },
          {
             "id":"9",
             "name":"Ligatures",
             "sampletext":"ff fl fi ffl ffi",
-            "code":"SS09"
+            "code":"LIGA"
          },
          {
             "id":"10",
             "name":"Discretionary Ligatures",
             "sampletext":"fh fk fb",
-            "code":"SS10"
+            "code":"DLIG"
          },
          {
             "id":"11",
             "name":"Slashed Zero",
             "sampletext":"0",
-            "code":"SS11"
+            "code":"ZERO"
          }
       ]
    },
