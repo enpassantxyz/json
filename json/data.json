@@ -7,131 +7,120 @@
          "opsz"
       ],
       "subfamilies": [
-         {
+         {  
             "id": "1",
-            "name": "Kabeljauw Text",
-            "opsz": "16"
+            "name": "Text",
+            "opsz": "16",
+            "styles": [
+               {
+                  "id": "1",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Text",
+                  "name": "Regular",
+                  "weight": "400",
+                  "sampletext": "papardelle fungi"
+               },
+               {
+                  "id": "2",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Text",
+                  "name": "Medium",
+                  "weight": "500",
+                  "sampletext": "system architecture"
+               },
+               {
+                  "id": "3",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Text",
+                  "name": "Semi Bold",
+                  "weight": "600",
+                  "sampletext": "Embryogenesis"
+               },
+               {
+                  "id": "4",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Text",
+                  "name": "Bold",
+                  "weight": "700",
+                  "sampletext": "Don't make me think"
+               },
+               {
+                  "id": "5",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Text",
+                  "name": "Extra Bold",
+                  "weight": "800",
+                  "sampletext": "The Birth of Venus, 1485"
+               },
+               {
+                  "id": "6",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Text",
+                  "name": "Heavy",
+                  "weight": "900",
+                  "sampletext": "The richest man in Babylon"
+               }
+            ]
          },
          {
             "id": "2",
-            "name": "Kabeljauw Normal",
-            "opsz": "68"
+            "name": "Standard",
+            "opsz": "68",
+            "styles": [
+               {
+                  "id": "1",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Standard",
+                  "name": "Regular",
+                  "weight": "400",
+                  "sampletext": "papardelle fungi"
+               },
+               {
+                  "id": "2",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Standard",
+                  "name": "Medium",
+                  "weight": "500",
+                  "sampletext": "system architecture"
+               },
+               {
+                  "id": "3",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Standard",
+                  "name": "Semi Bold",
+                  "weight": "600",
+                  "sampletext": "Embryogenesis"
+               },
+               {
+                  "id": "4",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Standard",
+                  "name": "Bold",
+                  "weight": "700",
+                  "sampletext": "Don't make me think"
+               },
+               {
+                  "id": "5",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Standard",
+                  "name": "Extra Bold",
+                  "weight": "800",
+                  "sampletext": "The Birth of Venus, 1485"
+               },
+               {
+                  "id": "6",
+                  "familyname": "Kabeljauw",
+                  "subfamily": "Standard",
+                  "name": "Heavy",
+                  "weight": "900",
+                  "sampletext": "The richest man in Babylon"
+               }
+            ]
          },
          {
             "id": "3",
-            "name": "Kabeljauw Display",
-            "opsz": "120"
-         }
-      ],
-      "subfamilies": [
-         {
-            "name": "Text",
-            "styles": [
-               {
-                  "id": "1",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Text",
-                  "name": "Regular",
-                  "weight": "400",
-                  "sampletext": "papardelle fungi"
-               },
-               {
-                  "id": "2",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Text",
-                  "name": "Medium",
-                  "weight": "500",
-                  "sampletext": "system architecture"
-               },
-               {
-                  "id": "3",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Text",
-                  "name": "Semi Bold",
-                  "weight": "600",
-                  "sampletext": "Embryogenesis"
-               },
-               {
-                  "id": "4",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Text",
-                  "name": "Bold",
-                  "weight": "700",
-                  "sampletext": "Don't make me think"
-               },
-               {
-                  "id": "5",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Text",
-                  "name": "Extra Bold",
-                  "weight": "800",
-                  "sampletext": "The Birth of Venus, 1485"
-               },
-               {
-                  "id": "6",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Text",
-                  "name": "Heavy",
-                  "weight": "900",
-                  "sampletext": "The richest man in Babylon"
-               }
-            ]
-         },
-         {
-            "name": "Standard",
-            "styles": [
-               {
-                  "id": "1",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Standard",
-                  "name": "Regular",
-                  "weight": "400",
-                  "sampletext": "papardelle fungi"
-               },
-               {
-                  "id": "2",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Standard",
-                  "name": "Medium",
-                  "weight": "500",
-                  "sampletext": "system architecture"
-               },
-               {
-                  "id": "3",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Standard",
-                  "name": "Semi Bold",
-                  "weight": "600",
-                  "sampletext": "Embryogenesis"
-               },
-               {
-                  "id": "4",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Standard",
-                  "name": "Bold",
-                  "weight": "700",
-                  "sampletext": "Don't make me think"
-               },
-               {
-                  "id": "5",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Standard",
-                  "name": "Extra Bold",
-                  "weight": "800",
-                  "sampletext": "The Birth of Venus, 1485"
-               },
-               {
-                  "id": "6",
-                  "familyname": "Kabeljauw",
-                  "subfamily": "Standard",
-                  "name": "Heavy",
-                  "weight": "900",
-                  "sampletext": "The richest man in Babylon"
-               }
-            ]
-         },
-         {
             "name": "Display",
+            "opsz": "120",
             "styles": [
                {
                   "id": "1",
