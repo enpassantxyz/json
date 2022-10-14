@@ -34,7 +34,7 @@
                   "subfamily": "Text",
                   "name": "Semi Bold",
                   "weight": "600",
-                  "sampletext": "Rosemarie & Rico Baltensweiler Pentarkus"
+                  "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus"
                },
                {
                   "id": "4",
@@ -42,7 +42,7 @@
                   "subfamily": "Text",
                   "name": "Bold",
                   "weight": "700",
-                  "sampletext": "Don't make me think"
+                  "sampletext": "Dont Make Me Think, Steve Krug"
                },
                {
                   "id": "5",
@@ -105,7 +105,7 @@
                   "subfamily": "Standard",
                   "name": "Extra Bold",
                   "weight": "800",
-                  "sampletext": "The Birth of Venus, 1485"
+                  "sampletext": "[Date 2008.10.30][White Hikaru Nakamura][Black Maxime Vachier-Lagrave]"
                },
                {
                   "id": "6",
@@ -113,7 +113,7 @@
                   "subfamily": "Standard",
                   "name": "Heavy",
                   "weight": "900",
-                  "sampletext": "The richest man in Babylon"
+                  "sampletext": "Oxford, ipswich, hertford, chelmsford, st Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry"
                }
             ]
          },
@@ -128,7 +128,7 @@
                   "subfamily": "Display",
                   "name": "Regular",
                   "weight": "400",
-                  "sampletext": "papardelle fungi"
+                  "sampletext": "Up's above and down's below. And limbo's in between"
                },
                {
                   "id": "2",
@@ -136,14 +136,14 @@
                   "subfamily": "Display",
                   "name": "Medium",
                   "weight": "500",
-                  "sampletext": "system architecture"
+                  "sampletext": " Broiled Double-Thick Veggie Chops With Slicked-Up Store-Bought Mint Jelly Sauce"
                },
                {
                   "id": "3",
                   "familyname": "Kabeljauw",
                   "name": "Semi Bold",
                   "weight": "600",
-                  "sampletext": "Embryogenesis"
+                  "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8"
                },
                {
                   "id": "4",
@@ -151,7 +151,7 @@
                   "subfamily": "Display",
                   "name": "Bold",
                   "weight": "700",
-                  "sampletext": "Don't make me think"
+                  "sampletext": "TWINSCAN NXE:3600D, TWINSCAN NXE:3400C, PAS 5500-1150C, PAS 5500-8TFH-A, PAS 5500-850C, PAS 5500-750F, PAS 5500-450F, PAS 5500-350C, PAS 5500-275D, PAS 5500-100D"
                },
                {
                   "id": "5",
@@ -159,7 +159,7 @@
                   "subfamily": "Display",
                   "name": "Extra Bold",
                   "weight": "800",
-                  "sampletext": "The Birth of Venus, 1485"
+                  "sampletext": "Special Issue “EUV and X-ray Wavefront Sensing — Mourad Idir, Daniele Cocco and Lei Huang"
                },
                {
                   "id": "6",
@@ -167,7 +167,7 @@
                   "subfamily": "Display",
                   "name": "Heavy",
                   "weight": "900",
-                  "sampletext": "The richest man in Babylon"
+                  "sampletext": "html, haml, pug, slim, jsx, xml, xsl, css, scss, sass, less and stylus"
                }
             ]
          }
