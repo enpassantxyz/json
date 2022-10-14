@@ -3604,7 +3604,7 @@
             "category": "Punctuation",
             "subCategory": "Quote",
             "script": "None",
-            "codepoint": "&quot;"
+            "codepoint": "\""
          },
          {
             "unicode": "0027",
@@ -3612,7 +3612,7 @@
             "category": "Punctuation",
             "subCategory": "Quote",
             "script": "None",
-            "codepoint": "&apos;"
+            "codepoint": "\'"
          },
          {
             "unicode": "0020",
