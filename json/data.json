@@ -495,6 +495,8 @@
 {"unicode": "017C" , "name": "zdotaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ż" },
 {"unicode": "FB01" , "name": "fi" , "category": "Letter" , "subCategory": "Ligature" , "script": "latin" , "codepoint": "ﬁ" },
 {"unicode": "FB02" , "name": "fl" , "category": "Letter" , "subCategory": "Ligature" , "script": "latin" , "codepoint": "ﬂ" },
+{"unicode": "00AA" , "name": "ordfeminine" , "category": "Letter" , "subCategory": "Superscript" , "script": "latin" , "codepoint": "ª" },
+{"unicode": "00BA" , "name": "ordmasculine" , "category": "Letter" , "subCategory": "Superscript" , "script": "latin" , "codepoint": "º" },
 {"unicode": "0394" , "name": "Delta" , "category": "Letter" , "subCategory": "None" , "script": "greek" , "codepoint": "Δ" },
 {"unicode": "03A9" , "name": "Omega" , "category": "Letter" , "subCategory": "None" , "script": "greek" , "codepoint": "Ω" },
 {"unicode": "03BC" , "name": "mu" , "category": "Letter" , "subCategory": "None" , "script": "greek" , "codepoint": "μ" },
@@ -510,13 +512,6 @@
 {"unicode": "0038" , "name": "eight" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "8" },
 {"unicode": "0039" , "name": "nine" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "9" },
 {"unicode": "2044" , "name": "fraction" , "category": "Number" , "subCategory": "Fraction" , "script": "None" , "codepoint": "⁄" },
-{"unicode": "00B9" , "name": "onesuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "¹" },
-{"unicode": "00B2" , "name": "twosuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "²" },
-{"unicode": "00B3" , "name": "threesuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "³" },
-{"unicode": "2074" , "name": "foursuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "⁴" },
-{"unicode": "00BD" , "name": "onehalf" , "category": "Number" , "subCategory": "Fraction" , "script": "None" , "codepoint": "½" },
-{"unicode": "00BC" , "name": "onequarter" , "category": "Number" , "subCategory": "Fraction" , "script": "None" , "codepoint": "¼" },
-{"unicode": "00BE" , "name": "threequarters" , "category": "Number" , "subCategory": "Fraction" , "script": "None" , "codepoint": "¾" },
 {"unicode": "002E" , "name": "period" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "." },
 {"unicode": "002C" , "name": "comma" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "," },
 {"unicode": "003A" , "name": "colon" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": ":" },
@@ -607,7 +602,6 @@
 {"unicode": "2195" , "name": "upDownArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↕" },
 {"unicode": "21B3" , "name": "downTipRightArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↳" },
 {"unicode": "21B5" , "name": "carriagereturn" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↵" },
-{"unicode": "21F5" , "name": "downAndUpArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "⇵" },
 {"unicode": "25CF" , "name": "blackCircle" , "category": "Symbol" , "subCategory": "Geometry" , "script": "None" , "codepoint": "●" },
 {"unicode": "25CC" , "name": "dottedCircle" , "category": "Symbol" , "subCategory": "Geometry" , "script": "None" , "codepoint": "◌" },
 {"unicode": "25CA" , "name": "lozenge" , "category": "Symbol" , "subCategory": "Geometry" , "script": "None" , "codepoint": "◊" },
@@ -664,9 +658,8 @@
 {"unicode": "02DC" , "name": "tilde" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˜" },
 {"unicode": "00AF" , "name": "macron" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "¯" },
 {"unicode": "00B8" , "name": "cedilla" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "¸" },
-{"unicode": "02DB" , "name": "ogonek" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˛" },
-{"unicode": "0336" , "name": "strokelongcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̶" },
-{"unicode": "0337" , "name": "slashshortcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̷" }
+{"unicode": "02DB" , "name": "ogonek" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˛" }
+
       ]
    },
    {
