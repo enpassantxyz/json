@@ -113,7 +113,7 @@
                   "subfamily": "Standard",
                   "name": "Heavy",
                   "weight": "900",
-                  "sampletext": "Oxford, ipswich, hertford, chelmsford, st Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry"
+                  "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry"
                }
             ]
          },
@@ -548,8 +548,8 @@
 {"unicode": "00BB" , "name": "guillemetright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "»" },
 {"unicode": "2039" , "name": "guilsinglleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "‹" },
 {"unicode": "203A" , "name": "guilsinglright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "›" },
-{"unicode": "0022" , "name": "quotedbl" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "&quot;" },
-{"unicode": "0027" , "name": "quotesingle" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "&apos;" },
+{"unicode": "0022" , "name": "quotedbl" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "\"" },
+{"unicode": "0027" , "name": "quotesingle" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "'" },
 {"unicode": "0020" , "name": "space" , "category": "Separator" , "subCategory": "Space" , "script": "None" , "codepoint": " " },
 {"unicode": "00A0" , "name": "nbspace" , "category": "Separator" , "subCategory": "Space" , "script": "None" , "codepoint": " " },
 {"unicode": "20BF" , "name": "bitcoin" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₿" },
