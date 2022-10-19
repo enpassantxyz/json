@@ -42,7 +42,7 @@
                   "subfamily": "Text",
                   "name": "Bold",
                   "weight": "700",
-                  "sampletext": "Dont Make Me Think, Steve Krug"
+                  "sampletext": "Don’t Make Me Think, Steve Krug"
                },
                {
                   "id": "5",
@@ -73,7 +73,7 @@
                   "subfamily": "Standard",
                   "name": "Regular",
                   "weight": "400",
-                  "sampletext": "DRIIING! BAAANG! VROOOM! PANG! PANG! WAF! WAF! RRRR... RRR..."
+                  "sampletext": "DRIIING! BAAANG! VROOOM! PANG! PANG! WAF! WAF! RRRR... RRRR..."
                },
                {
                   "id": "2",
@@ -97,7 +97,7 @@
                   "subfamily": "Standard",
                   "name": "Bold",
                   "weight": "700",
-                  "sampletext": "`Salopetten` vs `sarcofagen` GO!"
+                  "sampletext": "`sarcofagen` versus `Salopetten` &  GO!"
                },
                {
                   "id": "5",
@@ -167,7 +167,7 @@
                   "subfamily": "Display",
                   "name": "Heavy",
                   "weight": "900",
-                  "sampletext": "html, haml, pug, slim, jsx, xml, xsl, css, scss, sass, less and stylus"
+                  "sampletext": "Mom's Spaghetti recipe: 2 tablespoons extra virgin olive oil, 1 large onion 2 minced garlic cloves, 1 1⁄2 lbs ground beef, 1 can diced tomatoes, 2 (6 ounce) cans tomato paste, 2 cups water, 1⁄4 cup dried parsley, 2 teaspoons italian seasoning, 1 teaspoon salt, 1 teaspoon pepper, 2 tablespoons sugar"
                }
             ]
          }
