@@ -510,9 +510,49 @@
                {"unicode": "21B3" , "name": "downTipRightArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↳" },
                {"unicode": "21B5" , "name": "carriagereturn" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↵" }
             ]
+         },{
+            "category":"Punctuation",
+            "glyphs":[
+               {"unicode": "002E" , "name": "period" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "." },
+               {"unicode": "002C" , "name": "comma" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "," },
+               {"unicode": "003A" , "name": "colon" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": ":" },
+               {"unicode": "003B" , "name": "semicolon" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": ";" },
+               {"unicode": "2026" , "name": "ellipsis" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "…" },
+               {"unicode": "0021" , "name": "exclam" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "!" },
+               {"unicode": "00A1" , "name": "exclamdown" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "¡" },
+               {"unicode": "003F" , "name": "question" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "?" },
+               {"unicode": "00BF" , "name": "questiondown" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "¿" },
+               {"unicode": "00B7" , "name": "periodcentered" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "·" },
+               {"unicode": "2022" , "name": "bullet" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "•" },
+               {"unicode": "002A" , "name": "asterisk" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "*" },
+               {"unicode": "0023" , "name": "numbersign" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "#" },
+               {"unicode": "002F" , "name": "slash" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "/" },
+               {"unicode": "005C" , "name": "backslash" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "\\" },
+               {"unicode": "002D" , "name": "hyphen" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "-" },
+               {"unicode": "00AD" , "name": "softhyphen" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "­" },
+               {"unicode": "2013" , "name": "endash" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "–" },
+               {"unicode": "2014" , "name": "emdash" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "—" },
+               {"unicode": "005F" , "name": "underscore" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "_" },
+               {"unicode": "0028" , "name": "parenleft" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "(" },
+               {"unicode": "0029" , "name": "parenright" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": ")" },
+               {"unicode": "007B" , "name": "braceleft" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "{" },
+               {"unicode": "007D" , "name": "braceright" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "}" },
+               {"unicode": "005B" , "name": "bracketleft" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "[" },
+               {"unicode": "005D" , "name": "bracketright" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "]" },
+               {"unicode": "201A" , "name": "quotesinglbase" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "‚" },
+               {"unicode": "201E" , "name": "quotedblbase" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "„" },
+               {"unicode": "201C" , "name": "quotedblleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "“" },
+               {"unicode": "201D" , "name": "quotedblright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "”" },
+               {"unicode": "2018" , "name": "quoteleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "‘" },
+               {"unicode": "2019" , "name": "quoteright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "’" },
+               {"unicode": "00AB" , "name": "guillemetleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "«" },
+               {"unicode": "00BB" , "name": "guillemetright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "»" },
+               {"unicode": "2039" , "name": "guilsinglleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "‹" },
+               {"unicode": "203A" , "name": "guilsinglright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "›" },
+               {"unicode": "0022" , "name": "quotedbl" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "\"" },
+               {"unicode": "0027" , "name": "quotesingle" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "'" }
+            ]
          }
-         
-
       ]
    },
    {
