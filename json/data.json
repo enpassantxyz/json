@@ -247,3720 +247,553 @@
       "formats": "OTF, TTF (variable), WOFF, WOFF2",
       "description": "Kabeljauw is a text letter developed for scanning experience on screen.",
       "characterset": [
-         {
-            "category": "Basic Latin",
-            "glyphs": [
-               {
-                  "unicode": "0041",
-                  "name": "A",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "A"
-               },
-               {
-                  "unicode": "0042",
-                  "name": "B",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "B"
-               },
-               {
-                  "unicode": "0043",
-                  "name": "C",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "C"
-               },
-               {
-                  "unicode": "0044",
-                  "name": "D",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "D"
-               },
-               {
-                  "unicode": "0045",
-                  "name": "E",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "E"
-               },
-               {
-                  "unicode": "0046",
-                  "name": "F",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "F"
-               },
-               {
-                  "unicode": "0047",
-                  "name": "G",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "G"
-               },
-               {
-                  "unicode": "0048",
-                  "name": "H",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "H"
-               },
-               {
-                  "unicode": "0049",
-                  "name": "I",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "I"
-               },
-               {
-                  "unicode": "004A",
-                  "name": "J",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "J"
-               },
-               {
-                  "unicode": "004B",
-                  "name": "K",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "K"
-               },
-               {
-                  "unicode": "004C",
-                  "name": "L",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "L"
-               },
-               {
-                  "unicode": "004D",
-                  "name": "M",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "M"
-               },
-               {
-                  "unicode": "004E",
-                  "name": "N",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "N"
-               },
-               {
-                  "unicode": "004F",
-                  "name": "O",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "O"
-               },
-               {
-                  "unicode": "0050",
-                  "name": "P",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "P"
-               },
-               {
-                  "unicode": "0051",
-                  "name": "Q",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Q"
-               },
-               {
-                  "unicode": "0052",
-                  "name": "R",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "R"
-               },
-               {
-                  "unicode": "0053",
-                  "name": "S",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "S"
-               },
-               {
-                  "unicode": "0054",
-                  "name": "T",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "T"
-               },
-               {
-                  "unicode": "0055",
-                  "name": "U",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "U"
-               },
-               {
-                  "unicode": "0056",
-                  "name": "V",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "V"
-               },
-               {
-                  "unicode": "0057",
-                  "name": "W",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "W"
-               },
-               {
-                  "unicode": "0058",
-                  "name": "X",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "X"
-               },
-               {
-                  "unicode": "0059",
-                  "name": "Y",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Y"
-               },
-               {
-                  "unicode": "005A",
-                  "name": "Z",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Z"
-               },
-               {
-                  "unicode": "0061",
-                  "name": "a",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "a"
-               },
-               {
-                  "unicode": "0062",
-                  "name": "b",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "b"
-               },
-               {
-                  "unicode": "0063",
-                  "name": "c",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "c"
-               },
-               {
-                  "unicode": "0064",
-                  "name": "d",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "d"
-               },
-               {
-                  "unicode": "0065",
-                  "name": "e",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "e"
-               },
-               {
-                  "unicode": "0066",
-                  "name": "f",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "f"
-               },
-               {
-                  "unicode": "0067",
-                  "name": "g",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "g"
-               },
-               {
-                  "unicode": "0068",
-                  "name": "h",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "h"
-               },
-               {
-                  "unicode": "0069",
-                  "name": "i",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "i"
-               },
-               {
-                  "unicode": "006A",
-                  "name": "j",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "j"
-               },
-               {
-                  "unicode": "006B",
-                  "name": "k",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "k"
-               },
-               {
-                  "unicode": "006C",
-                  "name": "l",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "l"
-               },
-               {
-                  "unicode": "006D",
-                  "name": "m",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "m"
-               },
-               {
-                  "unicode": "006E",
-                  "name": "n",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "n"
-               },
-               {
-                  "unicode": "006F",
-                  "name": "o",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "o"
-               },
-               {
-                  "unicode": "0070",
-                  "name": "p",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "p"
-               },
-               {
-                  "unicode": "0071",
-                  "name": "q",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "q"
-               },
-               {
-                  "unicode": "0072",
-                  "name": "r",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "r"
-               },
-               {
-                  "unicode": "0073",
-                  "name": "s",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "s"
-               },
-               {
-                  "unicode": "0074",
-                  "name": "t",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "t"
-               },
-               {
-                  "unicode": "0075",
-                  "name": "u",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "u"
-               },
-               {
-                  "unicode": "0076",
-                  "name": "v",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "v"
-               },
-               {
-                  "unicode": "0077",
-                  "name": "w",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "w"
-               },
-               {
-                  "unicode": "0078",
-                  "name": "x",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "x"
-               },
-               {
-                  "unicode": "0079",
-                  "name": "y",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "y"
-               },
-               {
-                  "unicode": "007A",
-                  "name": "z",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "z"
-               }
+         {  "category": "b",
+            "glyphs": [{"unicode": "0041" , "name": "A" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "A" },
+            {"unicode": "0042" , "name": "B" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "B" },
+            {"unicode": "0043" , "name": "C" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "C" },
+            {"unicode": "0044" , "name": "D" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "D" },
+            {"unicode": "0045" , "name": "E" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "E" },
+            {"unicode": "0046" , "name": "F" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "F" },
+            {"unicode": "0047" , "name": "G" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "G" },
+            {"unicode": "0048" , "name": "H" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "H" },
+            {"unicode": "0049" , "name": "I" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "I" },
+            {"unicode": "004A" , "name": "J" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "J" },
+            {"unicode": "004B" , "name": "K" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "K" },
+            {"unicode": "004C" , "name": "L" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "L" },
+            {"unicode": "004D" , "name": "M" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "M" },
+            {"unicode": "004E" , "name": "N" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "N" },
+            {"unicode": "004F" , "name": "O" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "O" },
+            {"unicode": "0050" , "name": "P" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "P" },
+            {"unicode": "0051" , "name": "Q" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Q" },
+            {"unicode": "0052" , "name": "R" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "R" },
+            {"unicode": "0053" , "name": "S" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "S" },
+            {"unicode": "0054" , "name": "T" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "T" },
+            {"unicode": "0055" , "name": "U" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "U" },
+            {"unicode": "0056" , "name": "V" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "V" },
+            {"unicode": "0057" , "name": "W" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "W" },
+            {"unicode": "0058" , "name": "X" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "X" },
+            {"unicode": "0059" , "name": "Y" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Y" },
+            {"unicode": "005A" , "name": "Z" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Z" },
+            {"unicode": "0061" , "name": "a" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "a" },
+            {"unicode": "0062" , "name": "b" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "b" },
+            {"unicode": "0063" , "name": "c" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "c" },
+            {"unicode": "0064" , "name": "d" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "d" },
+            {"unicode": "0065" , "name": "e" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "e" },
+            {"unicode": "0066" , "name": "f" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "f" },
+            {"unicode": "0067" , "name": "g" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "g" },
+            {"unicode": "0068" , "name": "h" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "h" },
+            {"unicode": "0069" , "name": "i" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "i" },
+            {"unicode": "006A" , "name": "j" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "j" },
+            {"unicode": "006B" , "name": "k" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "k" },
+            {"unicode": "006C" , "name": "l" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "l" },
+            {"unicode": "006D" , "name": "m" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "m" },
+            {"unicode": "006E" , "name": "n" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "n" },
+            {"unicode": "006F" , "name": "o" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "o" },
+            {"unicode": "0070" , "name": "p" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "p" },
+            {"unicode": "0071" , "name": "q" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "q" },
+            {"unicode": "0072" , "name": "r" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "r" },
+            {"unicode": "0073" , "name": "s" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "s" },
+            {"unicode": "0074" , "name": "t" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "t" },
+            {"unicode": "0075" , "name": "u" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "u" },
+            {"unicode": "0076" , "name": "v" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "v" },
+            {"unicode": "0077" , "name": "w" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "w" },
+            {"unicode": "0078" , "name": "x" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "x" },
+            {"unicode": "0079" , "name": "y" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "y" },
+            {"unicode": "007A" , "name": "z" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "z" }
             ]
+         }
+         
+
+      ]
+   },
+   {
+      "id": "2",
+      "name": "avond",
+      "axis": "wght",
+      "styles": [
+         {
+            "id": "1",
+            "familyname": "Avond",
+            "name": "Light",
+            "weight": "300",
+            "sampletext": "Historians speak of such units as 10,000 horsemen, 25,000 chariots, 1200 regiments of foot soldiers with 1000 men to the regiment."
          },
          {
             "id": "2",
-            "name": "avond",
-            "axis": "wght",
-            "styles": [
-               {
-                  "id": "1",
-                  "familyname": "Avond",
-                  "name": "Light",
-                  "weight": "300",
-                  "sampletext": "Historians speak of such units as 10,000 horsemen, 25,000 chariots, 1200 regiments of foot soldiers with 1000 men to the regiment."
-               },
-               {
-                  "id": "2",
-                  "familyname": "Avond",
-                  "name": "Regular",
-                  "weight": "400",
-                  "sampletext": "Seven Cures For a Lean Purse"
-               },
-               {
-                  "id": "3",
-                  "familyname": "Avond",
-                  "name": "Semi Bold",
-                  "weight": "600",
-                  "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus"
-               },
-               {
-                  "id": "4",
-                  "familyname": "Avond",
-                  "name": "Bold",
-                  "weight": "700",
-                  "sampletext": "Don’t Make Me Think, Steve Krug"
-               }
-            ],
-            "features": [
-               {
-                  "id": "1",
-                  "name": "Alternative'a'",
-                  "sampletext": "a — androgynous",
-                  "code": "ss01"
-               },
-               {
-                  "id": "2",
-                  "name": "Alternative Terminal Endings",
-                  "sampletext": "G – Gemini",
-                  "code": "ss02"
-               },
-               {
-                  "id": "3",
-                  "name": "Alternative'R'",
-                  "sampletext": "R – Rotonde",
-                  "code": "ss03"
-               },
-               {
-                  "id": "4",
-                  "name": "Tabular Numbers",
-                  "sampletext": "1234567890",
-                  "code": "tnum"
-               },
-               {
-                  "id": "5",
-                  "name": "Case Sensitive Forms",
-                  "sampletext": "H–[H]",
-                  "code": "case"
-               },
-               {
-                  "id": "6",
-                  "name": "Ligatures",
-                  "sampletext": "ff fl fi ffl ffi",
-                  "code": "liga"
-               },
-               {
-                  "id": "7",
-                  "name": "Discretionary Ligatures",
-                  "sampletext": "fh fk fb",
-                  "code": "dlig"
-               },
-               {
-                  "id": "8",
-                  "name": "Slashed Zero",
-                  "sampletext": "0",
-                  "code": "zero"
-               }
-            ],
-            "characterset": [
-               {
-                  "unicode": "0041",
-                  "name": "A",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "A"
-               },
-               {
-                  "unicode": "00C1",
-                  "name": "Aacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Á"
-               },
-               {
-                  "unicode": "0102",
-                  "name": "Abreve",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ă"
-               },
-               {
-                  "unicode": "00C2",
-                  "name": "Acircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Â"
-               },
-               {
-                  "unicode": "00C4",
-                  "name": "Adieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ä"
-               },
-               {
-                  "unicode": "00C0",
-                  "name": "Agrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "À"
-               },
-               {
-                  "unicode": "0100",
-                  "name": "Amacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ā"
-               },
-               {
-                  "unicode": "0104",
-                  "name": "Aogonek",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ą"
-               },
-               {
-                  "unicode": "00C5",
-                  "name": "Aring",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Å"
-               },
-               {
-                  "unicode": "00C3",
-                  "name": "Atilde",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ã"
-               },
-               {
-                  "unicode": "00C6",
-                  "name": "AE",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Æ"
-               },
-               {
-                  "unicode": "0042",
-                  "name": "B",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "B"
-               },
-               {
-                  "unicode": "0043",
-                  "name": "C",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "C"
-               },
-               {
-                  "unicode": "0106",
-                  "name": "Cacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ć"
-               },
-               {
-                  "unicode": "010C",
-                  "name": "Ccaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Č"
-               },
-               {
-                  "unicode": "00C7",
-                  "name": "Ccedilla",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ç"
-               },
-               {
-                  "unicode": "0044",
-                  "name": "D",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "D"
-               },
-               {
-                  "unicode": "00D0",
-                  "name": "Eth",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ð"
-               },
-               {
-                  "unicode": "010E",
-                  "name": "Dcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ď"
-               },
-               {
-                  "unicode": "0110",
-                  "name": "Dcroat",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Đ"
-               },
-               {
-                  "unicode": "0045",
-                  "name": "E",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "E"
-               },
-               {
-                  "unicode": "00C9",
-                  "name": "Eacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "É"
-               },
-               {
-                  "unicode": "011A",
-                  "name": "Ecaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ě"
-               },
-               {
-                  "unicode": "00CA",
-                  "name": "Ecircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ê"
-               },
-               {
-                  "unicode": "00CB",
-                  "name": "Edieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ë"
-               },
-               {
-                  "unicode": "0116",
-                  "name": "Edotaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ė"
-               },
-               {
-                  "unicode": "00C8",
-                  "name": "Egrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "È"
-               },
-               {
-                  "unicode": "0112",
-                  "name": "Emacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ē"
-               },
-               {
-                  "unicode": "0118",
-                  "name": "Eogonek",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ę"
-               },
-               {
-                  "unicode": "0046",
-                  "name": "F",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "F"
-               },
-               {
-                  "unicode": "0047",
-                  "name": "G",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "G"
-               },
-               {
-                  "unicode": "0122",
-                  "name": "Gcommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ģ"
-               },
-               {
-                  "unicode": "0048",
-                  "name": "H",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "H"
-               },
-               {
-                  "unicode": "0049",
-                  "name": "I",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "I"
-               },
-               {
-                  "unicode": "00CD",
-                  "name": "Iacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Í"
-               },
-               {
-                  "unicode": "00CE",
-                  "name": "Icircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Î"
-               },
-               {
-                  "unicode": "00CF",
-                  "name": "Idieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ï"
-               },
-               {
-                  "unicode": "00CC",
-                  "name": "Igrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ì"
-               },
-               {
-                  "unicode": "012A",
-                  "name": "Imacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ī"
-               },
-               {
-                  "unicode": "012E",
-                  "name": "Iogonek",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Į"
-               },
-               {
-                  "unicode": "004A",
-                  "name": "J",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "J"
-               },
-               {
-                  "unicode": "004B",
-                  "name": "K",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "K"
-               },
-               {
-                  "unicode": "0136",
-                  "name": "Kcommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ķ"
-               },
-               {
-                  "unicode": "004C",
-                  "name": "L",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "L"
-               },
-               {
-                  "unicode": "0139",
-                  "name": "Lacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ĺ"
-               },
-               {
-                  "unicode": "013D",
-                  "name": "Lcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ľ"
-               },
-               {
-                  "unicode": "013B",
-                  "name": "Lcommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ļ"
-               },
-               {
-                  "unicode": "0141",
-                  "name": "Lslash",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ł"
-               },
-               {
-                  "unicode": "004D",
-                  "name": "M",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "M"
-               },
-               {
-                  "unicode": "004E",
-                  "name": "N",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "N"
-               },
-               {
-                  "unicode": "0143",
-                  "name": "Nacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ń"
-               },
-               {
-                  "unicode": "0147",
-                  "name": "Ncaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ň"
-               },
-               {
-                  "unicode": "0145",
-                  "name": "Ncommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ņ"
-               },
-               {
-                  "unicode": "014A",
-                  "name": "Eng",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ŋ"
-               },
-               {
-                  "unicode": "00D1",
-                  "name": "Ntilde",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ñ"
-               },
-               {
-                  "unicode": "004F",
-                  "name": "O",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "O"
-               },
-               {
-                  "unicode": "00D3",
-                  "name": "Oacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ó"
-               },
-               {
-                  "unicode": "00D4",
-                  "name": "Ocircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ô"
-               },
-               {
-                  "unicode": "00D6",
-                  "name": "Odieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ö"
-               },
-               {
-                  "unicode": "00D2",
-                  "name": "Ograve",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ò"
-               },
-               {
-                  "unicode": "0150",
-                  "name": "Ohungarumlaut",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ő"
-               },
-               {
-                  "unicode": "014C",
-                  "name": "Omacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ō"
-               },
-               {
-                  "unicode": "00D8",
-                  "name": "Oslash",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ø"
-               },
-               {
-                  "unicode": "00D5",
-                  "name": "Otilde",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Õ"
-               },
-               {
-                  "unicode": "0152",
-                  "name": "OE",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Œ"
-               },
-               {
-                  "unicode": "0050",
-                  "name": "P",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "P"
-               },
-               {
-                  "unicode": "00DE",
-                  "name": "Thorn",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Þ"
-               },
-               {
-                  "unicode": "0051",
-                  "name": "Q",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Q"
-               },
-               {
-                  "unicode": "0052",
-                  "name": "R",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "R"
-               },
-               {
-                  "unicode": "0154",
-                  "name": "Racute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ŕ"
-               },
-               {
-                  "unicode": "0158",
-                  "name": "Rcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ř"
-               },
-               {
-                  "unicode": "0156",
-                  "name": "Rcommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ŗ"
-               },
-               {
-                  "unicode": "0053",
-                  "name": "S",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "S"
-               },
-               {
-                  "unicode": "015A",
-                  "name": "Sacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ś"
-               },
-               {
-                  "unicode": "0160",
-                  "name": "Scaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Š"
-               },
-               {
-                  "unicode": "015E",
-                  "name": "Scedilla",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ş"
-               },
-               {
-                  "unicode": "1E9E",
-                  "name": "Germandbls",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ẞ"
-               },
-               {
-                  "unicode": "0054",
-                  "name": "T",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "T"
-               },
-               {
-                  "unicode": "0166",
-                  "name": "Tbar",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ŧ"
-               },
-               {
-                  "unicode": "0164",
-                  "name": "Tcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ť"
-               },
-               {
-                  "unicode": "0162",
-                  "name": "Tcedilla",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ţ"
-               },
-               {
-                  "unicode": "0055",
-                  "name": "U",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "U"
-               },
-               {
-                  "unicode": "00DA",
-                  "name": "Uacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ú"
-               },
-               {
-                  "unicode": "00DB",
-                  "name": "Ucircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Û"
-               },
-               {
-                  "unicode": "00DC",
-                  "name": "Udieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ü"
-               },
-               {
-                  "unicode": "00D9",
-                  "name": "Ugrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ù"
-               },
-               {
-                  "unicode": "0170",
-                  "name": "Uhungarumlaut",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ű"
-               },
-               {
-                  "unicode": "016A",
-                  "name": "Umacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ū"
-               },
-               {
-                  "unicode": "0172",
-                  "name": "Uogonek",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ų"
-               },
-               {
-                  "unicode": "016E",
-                  "name": "Uring",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ů"
-               },
-               {
-                  "unicode": "0056",
-                  "name": "V",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "V"
-               },
-               {
-                  "unicode": "0057",
-                  "name": "W",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "W"
-               },
-               {
-                  "unicode": "1E82",
-                  "name": "Wacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ẃ"
-               },
-               {
-                  "unicode": "0174",
-                  "name": "Wcircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ŵ"
-               },
-               {
-                  "unicode": "1E84",
-                  "name": "Wdieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ẅ"
-               },
-               {
-                  "unicode": "1E80",
-                  "name": "Wgrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ẁ"
-               },
-               {
-                  "unicode": "0058",
-                  "name": "X",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "X"
-               },
-               {
-                  "unicode": "0059",
-                  "name": "Y",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Y"
-               },
-               {
-                  "unicode": "00DD",
-                  "name": "Yacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ý"
-               },
-               {
-                  "unicode": "0176",
-                  "name": "Ycircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ŷ"
-               },
-               {
-                  "unicode": "0178",
-                  "name": "Ydieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ÿ"
-               },
-               {
-                  "unicode": "1EF2",
-                  "name": "Ygrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ỳ"
-               },
-               {
-                  "unicode": "005A",
-                  "name": "Z",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Z"
-               },
-               {
-                  "unicode": "0179",
-                  "name": "Zacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ź"
-               },
-               {
-                  "unicode": "017D",
-                  "name": "Zcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ž"
-               },
-               {
-                  "unicode": "017B",
-                  "name": "Zdotaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "Ż"
-               },
-               {
-                  "unicode": "0061",
-                  "name": "a",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "a"
-               },
-               {
-                  "unicode": "00E1",
-                  "name": "aacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "á"
-               },
-               {
-                  "unicode": "0103",
-                  "name": "abreve",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ă"
-               },
-               {
-                  "unicode": "00E2",
-                  "name": "acircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "â"
-               },
-               {
-                  "unicode": "00E4",
-                  "name": "adieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ä"
-               },
-               {
-                  "unicode": "00E0",
-                  "name": "agrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "à"
-               },
-               {
-                  "unicode": "0101",
-                  "name": "amacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ā"
-               },
-               {
-                  "unicode": "0105",
-                  "name": "aogonek",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ą"
-               },
-               {
-                  "unicode": "00E5",
-                  "name": "aring",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "å"
-               },
-               {
-                  "unicode": "00E3",
-                  "name": "atilde",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ã"
-               },
-               {
-                  "unicode": "00E6",
-                  "name": "ae",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "æ"
-               },
-               {
-                  "unicode": "0062",
-                  "name": "b",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "b"
-               },
-               {
-                  "unicode": "0063",
-                  "name": "c",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "c"
-               },
-               {
-                  "unicode": "0107",
-                  "name": "cacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ć"
-               },
-               {
-                  "unicode": "010D",
-                  "name": "ccaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "č"
-               },
-               {
-                  "unicode": "00E7",
-                  "name": "ccedilla",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ç"
-               },
-               {
-                  "unicode": "0064",
-                  "name": "d",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "d"
-               },
-               {
-                  "unicode": "00F0",
-                  "name": "eth",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ð"
-               },
-               {
-                  "unicode": "010F",
-                  "name": "dcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ď"
-               },
-               {
-                  "unicode": "0111",
-                  "name": "dcroat",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "đ"
-               },
-               {
-                  "unicode": "0065",
-                  "name": "e",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "e"
-               },
-               {
-                  "unicode": "00E9",
-                  "name": "eacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "é"
-               },
-               {
-                  "unicode": "011B",
-                  "name": "ecaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ě"
-               },
-               {
-                  "unicode": "00EA",
-                  "name": "ecircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ê"
-               },
-               {
-                  "unicode": "00EB",
-                  "name": "edieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ë"
-               },
-               {
-                  "unicode": "0117",
-                  "name": "edotaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ė"
-               },
-               {
-                  "unicode": "00E8",
-                  "name": "egrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "è"
-               },
-               {
-                  "unicode": "0113",
-                  "name": "emacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ē"
-               },
-               {
-                  "unicode": "0119",
-                  "name": "eogonek",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ę"
-               },
-               {
-                  "unicode": "0066",
-                  "name": "f",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "f"
-               },
-               {
-                  "unicode": "0067",
-                  "name": "g",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "g"
-               },
-               {
-                  "unicode": "0123",
-                  "name": "gcommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ģ"
-               },
-               {
-                  "unicode": "0068",
-                  "name": "h",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "h"
-               },
-               {
-                  "unicode": "0069",
-                  "name": "i",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "i"
-               },
-               {
-                  "unicode": "0131",
-                  "name": "idotless",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ı"
-               },
-               {
-                  "unicode": "00ED",
-                  "name": "iacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "í"
-               },
-               {
-                  "unicode": "00EE",
-                  "name": "icircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "î"
-               },
-               {
-                  "unicode": "00EF",
-                  "name": "idieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ï"
-               },
-               {
-                  "unicode": "00EC",
-                  "name": "igrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ì"
-               },
-               {
-                  "unicode": "012B",
-                  "name": "imacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ī"
-               },
-               {
-                  "unicode": "012F",
-                  "name": "iogonek",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "į"
-               },
-               {
-                  "unicode": "006A",
-                  "name": "j",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "j"
-               },
-               {
-                  "unicode": "006B",
-                  "name": "k",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "k"
-               },
-               {
-                  "unicode": "0137",
-                  "name": "kcommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ķ"
-               },
-               {
-                  "unicode": "006C",
-                  "name": "l",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "l"
-               },
-               {
-                  "unicode": "013A",
-                  "name": "lacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ĺ"
-               },
-               {
-                  "unicode": "013E",
-                  "name": "lcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ľ"
-               },
-               {
-                  "unicode": "013C",
-                  "name": "lcommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ļ"
-               },
-               {
-                  "unicode": "0142",
-                  "name": "lslash",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ł"
-               },
-               {
-                  "unicode": "006D",
-                  "name": "m",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "m"
-               },
-               {
-                  "unicode": "006E",
-                  "name": "n",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "n"
-               },
-               {
-                  "unicode": "0144",
-                  "name": "nacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ń"
-               },
-               {
-                  "unicode": "0148",
-                  "name": "ncaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ň"
-               },
-               {
-                  "unicode": "0146",
-                  "name": "ncommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ņ"
-               },
-               {
-                  "unicode": "014B",
-                  "name": "eng",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ŋ"
-               },
-               {
-                  "unicode": "00F1",
-                  "name": "ntilde",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ñ"
-               },
-               {
-                  "unicode": "006F",
-                  "name": "o",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "o"
-               },
-               {
-                  "unicode": "00F3",
-                  "name": "oacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ó"
-               },
-               {
-                  "unicode": "00F4",
-                  "name": "ocircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ô"
-               },
-               {
-                  "unicode": "00F6",
-                  "name": "odieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ö"
-               },
-               {
-                  "unicode": "00F2",
-                  "name": "ograve",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ò"
-               },
-               {
-                  "unicode": "0151",
-                  "name": "ohungarumlaut",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ő"
-               },
-               {
-                  "unicode": "014D",
-                  "name": "omacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ō"
-               },
-               {
-                  "unicode": "00F8",
-                  "name": "oslash",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ø"
-               },
-               {
-                  "unicode": "00F5",
-                  "name": "otilde",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "õ"
-               },
-               {
-                  "unicode": "0153",
-                  "name": "oe",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "œ"
-               },
-               {
-                  "unicode": "0070",
-                  "name": "p",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "p"
-               },
-               {
-                  "unicode": "00FE",
-                  "name": "thorn",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "þ"
-               },
-               {
-                  "unicode": "0071",
-                  "name": "q",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "q"
-               },
-               {
-                  "unicode": "0072",
-                  "name": "r",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "r"
-               },
-               {
-                  "unicode": "0155",
-                  "name": "racute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ŕ"
-               },
-               {
-                  "unicode": "0159",
-                  "name": "rcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ř"
-               },
-               {
-                  "unicode": "0157",
-                  "name": "rcommaaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ŗ"
-               },
-               {
-                  "unicode": "0073",
-                  "name": "s",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "s"
-               },
-               {
-                  "unicode": "015B",
-                  "name": "sacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ś"
-               },
-               {
-                  "unicode": "0161",
-                  "name": "scaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "š"
-               },
-               {
-                  "unicode": "015F",
-                  "name": "scedilla",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ş"
-               },
-               {
-                  "unicode": "00DF",
-                  "name": "germandbls",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ß"
-               },
-               {
-                  "unicode": "0074",
-                  "name": "t",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "t"
-               },
-               {
-                  "unicode": "0167",
-                  "name": "tbar",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ŧ"
-               },
-               {
-                  "unicode": "0165",
-                  "name": "tcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ť"
-               },
-               {
-                  "unicode": "0163",
-                  "name": "tcedilla",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ţ"
-               },
-               {
-                  "unicode": "0075",
-                  "name": "u",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "u"
-               },
-               {
-                  "unicode": "00FA",
-                  "name": "uacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ú"
-               },
-               {
-                  "unicode": "00FB",
-                  "name": "ucircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "û"
-               },
-               {
-                  "unicode": "00FC",
-                  "name": "udieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ü"
-               },
-               {
-                  "unicode": "00F9",
-                  "name": "ugrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ù"
-               },
-               {
-                  "unicode": "0171",
-                  "name": "uhungarumlaut",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ű"
-               },
-               {
-                  "unicode": "016B",
-                  "name": "umacron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ū"
-               },
-               {
-                  "unicode": "0173",
-                  "name": "uogonek",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ų"
-               },
-               {
-                  "unicode": "016F",
-                  "name": "uring",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ů"
-               },
-               {
-                  "unicode": "0076",
-                  "name": "v",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "v"
-               },
-               {
-                  "unicode": "0077",
-                  "name": "w",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "w"
-               },
-               {
-                  "unicode": "1E83",
-                  "name": "wacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ẃ"
-               },
-               {
-                  "unicode": "0175",
-                  "name": "wcircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ŵ"
-               },
-               {
-                  "unicode": "1E85",
-                  "name": "wdieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ẅ"
-               },
-               {
-                  "unicode": "1E81",
-                  "name": "wgrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ẁ"
-               },
-               {
-                  "unicode": "0078",
-                  "name": "x",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "x"
-               },
-               {
-                  "unicode": "0079",
-                  "name": "y",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "y"
-               },
-               {
-                  "unicode": "00FD",
-                  "name": "yacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ý"
-               },
-               {
-                  "unicode": "0177",
-                  "name": "ycircumflex",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ŷ"
-               },
-               {
-                  "unicode": "00FF",
-                  "name": "ydieresis",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ÿ"
-               },
-               {
-                  "unicode": "1EF3",
-                  "name": "ygrave",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ỳ"
-               },
-               {
-                  "unicode": "007A",
-                  "name": "z",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "z"
-               },
-               {
-                  "unicode": "017A",
-                  "name": "zacute",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ź"
-               },
-               {
-                  "unicode": "017E",
-                  "name": "zcaron",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ž"
-               },
-               {
-                  "unicode": "017C",
-                  "name": "zdotaccent",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "latin",
-                  "codepoint": "ż"
-               },
-               {
-                  "unicode": "FB01",
-                  "name": "fi",
-                  "category": "Letter",
-                  "subCategory": "Ligature",
-                  "script": "latin",
-                  "codepoint": "ﬁ"
-               },
-               {
-                  "unicode": "FB02",
-                  "name": "fl",
-                  "category": "Letter",
-                  "subCategory": "Ligature",
-                  "script": "latin",
-                  "codepoint": "ﬂ"
-               },
-               {
-                  "unicode": "00AA",
-                  "name": "ordfeminine",
-                  "category": "Letter",
-                  "subCategory": "Superscript",
-                  "script": "latin",
-                  "codepoint": "ª"
-               },
-               {
-                  "unicode": "00BA",
-                  "name": "ordmasculine",
-                  "category": "Letter",
-                  "subCategory": "Superscript",
-                  "script": "latin",
-                  "codepoint": "º"
-               },
-               {
-                  "unicode": "03B2",
-                  "name": "beta",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "greek",
-                  "codepoint": "β"
-               },
-               {
-                  "unicode": "03C0",
-                  "name": "pi",
-                  "category": "Letter",
-                  "subCategory": "None",
-                  "script": "greek",
-                  "codepoint": "π"
-               },
-               {
-                  "unicode": "0030",
-                  "name": "zero",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "0"
-               },
-               {
-                  "unicode": "0031",
-                  "name": "one",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "1"
-               },
-               {
-                  "unicode": "0032",
-                  "name": "two",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "2"
-               },
-               {
-                  "unicode": "0033",
-                  "name": "three",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "3"
-               },
-               {
-                  "unicode": "0034",
-                  "name": "four",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "4"
-               },
-               {
-                  "unicode": "0035",
-                  "name": "five",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "5"
-               },
-               {
-                  "unicode": "0036",
-                  "name": "six",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "6"
-               },
-               {
-                  "unicode": "0037",
-                  "name": "seven",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "7"
-               },
-               {
-                  "unicode": "0038",
-                  "name": "eight",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "8"
-               },
-               {
-                  "unicode": "0039",
-                  "name": "nine",
-                  "category": "Number",
-                  "subCategory": "Decimal Digit",
-                  "script": "None",
-                  "codepoint": "9"
-               },
-               {
-                  "unicode": "2080",
-                  "name": "zeroinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₀"
-               },
-               {
-                  "unicode": "2081",
-                  "name": "oneinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₁"
-               },
-               {
-                  "unicode": "2082",
-                  "name": "twoinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₂"
-               },
-               {
-                  "unicode": "2083",
-                  "name": "threeinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₃"
-               },
-               {
-                  "unicode": "2084",
-                  "name": "fourinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₄"
-               },
-               {
-                  "unicode": "2085",
-                  "name": "fiveinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₅"
-               },
-               {
-                  "unicode": "2086",
-                  "name": "sixinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₆"
-               },
-               {
-                  "unicode": "2087",
-                  "name": "seveninferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₇"
-               },
-               {
-                  "unicode": "2088",
-                  "name": "eightinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₈"
-               },
-               {
-                  "unicode": "2089",
-                  "name": "nineinferior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "₉"
-               },
-               {
-                  "unicode": "2070",
-                  "name": "zerosuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "⁰"
-               },
-               {
-                  "unicode": "00B9",
-                  "name": "onesuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "¹"
-               },
-               {
-                  "unicode": "00B2",
-                  "name": "twosuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "²"
-               },
-               {
-                  "unicode": "00B3",
-                  "name": "threesuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "³"
-               },
-               {
-                  "unicode": "2074",
-                  "name": "foursuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "⁴"
-               },
-               {
-                  "unicode": "2075",
-                  "name": "fivesuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "⁵"
-               },
-               {
-                  "unicode": "2076",
-                  "name": "sixsuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "⁶"
-               },
-               {
-                  "unicode": "2077",
-                  "name": "sevensuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "⁷"
-               },
-               {
-                  "unicode": "2078",
-                  "name": "eightsuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "⁸"
-               },
-               {
-                  "unicode": "2079",
-                  "name": "ninesuperior",
-                  "category": "Number",
-                  "subCategory": "Small",
-                  "script": "None",
-                  "codepoint": "⁹"
-               },
-               {
-                  "unicode": "2044",
-                  "name": "fraction",
-                  "category": "Number",
-                  "subCategory": "Fraction",
-                  "script": "None",
-                  "codepoint": "⁄"
-               },
-               {
-                  "unicode": "00BD",
-                  "name": "onehalf",
-                  "category": "Number",
-                  "subCategory": "Fraction",
-                  "script": "None",
-                  "codepoint": "½"
-               },
-               {
-                  "unicode": "00BC",
-                  "name": "onequarter",
-                  "category": "Number",
-                  "subCategory": "Fraction",
-                  "script": "None",
-                  "codepoint": "¼"
-               },
-               {
-                  "unicode": "00BE",
-                  "name": "threequarters",
-                  "category": "Number",
-                  "subCategory": "Fraction",
-                  "script": "None",
-                  "codepoint": "¾"
-               },
-               {
-                  "unicode": "002E",
-                  "name": "period",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "."
-               },
-               {
-                  "unicode": "002C",
-                  "name": "comma",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": ","
-               },
-               {
-                  "unicode": "003A",
-                  "name": "colon",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": ":"
-               },
-               {
-                  "unicode": "003B",
-                  "name": "semicolon",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": ";"
-               },
-               {
-                  "unicode": "2026",
-                  "name": "ellipsis",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "…"
-               },
-               {
-                  "unicode": "0021",
-                  "name": "exclam",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "!"
-               },
-               {
-                  "unicode": "00A1",
-                  "name": "exclamdown",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "¡"
-               },
-               {
-                  "unicode": "003F",
-                  "name": "question",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "?"
-               },
-               {
-                  "unicode": "00BF",
-                  "name": "questiondown",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "¿"
-               },
-               {
-                  "unicode": "00B7",
-                  "name": "periodcentered",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "·"
-               },
-               {
-                  "unicode": "2022",
-                  "name": "bullet",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "•"
-               },
-               {
-                  "unicode": "002A",
-                  "name": "asterisk",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "*"
-               },
-               {
-                  "unicode": "0023",
-                  "name": "numbersign",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "#"
-               },
-               {
-                  "unicode": "002F",
-                  "name": "slash",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "/"
-               },
-               {
-                  "unicode": "005C",
-                  "name": "backslash",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "\\"
-               },
-               {
-                  "unicode": "203D",
-                  "name": "interrobang",
-                  "category": "Punctuation",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "‽"
-               },
-               {
-                  "unicode": "0028",
-                  "name": "parenleft",
-                  "category": "Punctuation",
-                  "subCategory": "Parenthesis",
-                  "script": "None",
-                  "codepoint": "("
-               },
-               {
-                  "unicode": "0029",
-                  "name": "parenright",
-                  "category": "Punctuation",
-                  "subCategory": "Parenthesis",
-                  "script": "None",
-                  "codepoint": ")"
-               },
-               {
-                  "unicode": "007B",
-                  "name": "braceleft",
-                  "category": "Punctuation",
-                  "subCategory": "Parenthesis",
-                  "script": "None",
-                  "codepoint": "{"
-               },
-               {
-                  "unicode": "007D",
-                  "name": "braceright",
-                  "category": "Punctuation",
-                  "subCategory": "Parenthesis",
-                  "script": "None",
-                  "codepoint": "}"
-               },
-               {
-                  "unicode": "005B",
-                  "name": "bracketleft",
-                  "category": "Punctuation",
-                  "subCategory": "Parenthesis",
-                  "script": "None",
-                  "codepoint": "["
-               },
-               {
-                  "unicode": "005D",
-                  "name": "bracketright",
-                  "category": "Punctuation",
-                  "subCategory": "Parenthesis",
-                  "script": "None",
-                  "codepoint": "]"
-               },
-               {
-                  "unicode": "002D",
-                  "name": "hyphen",
-                  "category": "Punctuation",
-                  "subCategory": "Dash",
-                  "script": "None",
-                  "codepoint": "-"
-               },
-               {
-                  "unicode": "00AD",
-                  "name": "softhyphen",
-                  "category": "Punctuation",
-                  "subCategory": "Dash",
-                  "script": "None",
-                  "codepoint": "­"
-               },
-               {
-                  "unicode": "2013",
-                  "name": "endash",
-                  "category": "Punctuation",
-                  "subCategory": "Dash",
-                  "script": "None",
-                  "codepoint": "–"
-               },
-               {
-                  "unicode": "2014",
-                  "name": "emdash",
-                  "category": "Punctuation",
-                  "subCategory": "Dash",
-                  "script": "None",
-                  "codepoint": "—"
-               },
-               {
-                  "unicode": "005F",
-                  "name": "underscore",
-                  "category": "Punctuation",
-                  "subCategory": "Dash",
-                  "script": "None",
-                  "codepoint": "_"
-               },
-               {
-                  "unicode": "201A",
-                  "name": "quotesinglbase",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "‚"
-               },
-               {
-                  "unicode": "201E",
-                  "name": "quotedblbase",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "„"
-               },
-               {
-                  "unicode": "201C",
-                  "name": "quotedblleft",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "“"
-               },
-               {
-                  "unicode": "201D",
-                  "name": "quotedblright",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "”"
-               },
-               {
-                  "unicode": "2018",
-                  "name": "quoteleft",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "‘"
-               },
-               {
-                  "unicode": "2019",
-                  "name": "quoteright",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "’"
-               },
-               {
-                  "unicode": "00AB",
-                  "name": "guillemetleft",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "«"
-               },
-               {
-                  "unicode": "00BB",
-                  "name": "guillemetright",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "»"
-               },
-               {
-                  "unicode": "2039",
-                  "name": "guilsinglleft",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "‹"
-               },
-               {
-                  "unicode": "203A",
-                  "name": "guilsinglright",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "›"
-               },
-               {
-                  "unicode": "2057",
-                  "name": "quadrupleprime",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "⁗"
-               },
-               {
-                  "unicode": "2034",
-                  "name": "tripleprime",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "‴"
-               },
-               {
-                  "unicode": "0022",
-                  "name": "quotedbl",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "\""
-               },
-               {
-                  "unicode": "0027",
-                  "name": "quotesingle",
-                  "category": "Punctuation",
-                  "subCategory": "Quote",
-                  "script": "None",
-                  "codepoint": "'"
-               },
-               {
-                  "unicode": "0020",
-                  "name": "space",
-                  "category": "Separator",
-                  "subCategory": "Space",
-                  "script": "None",
-                  "codepoint": " "
-               },
-               {
-                  "unicode": "00A0",
-                  "name": "nbspace",
-                  "category": "Separator",
-                  "subCategory": "Space",
-                  "script": "None",
-                  "codepoint": " "
-               },
-               {
-                  "unicode": "20BF",
-                  "name": "bitcoin",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₿"
-               },
-               {
-                  "unicode": "00A2",
-                  "name": "cent",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "¢"
-               },
-               {
-                  "unicode": "00A4",
-                  "name": "currency",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "¤"
-               },
-               {
-                  "unicode": "0024",
-                  "name": "dollar",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "$"
-               },
-               {
-                  "unicode": "20AC",
-                  "name": "euro",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "€"
-               },
-               {
-                  "unicode": "20BD",
-                  "name": "ruble",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₽"
-               },
-               {
-                  "unicode": "00A3",
-                  "name": "sterling",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "£"
-               },
-               {
-                  "unicode": "20A9",
-                  "name": "won",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₩"
-               },
-               {
-                  "unicode": "00A5",
-                  "name": "yen",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "¥"
-               },
-               {
-                  "unicode": "058F",
-                  "name": "dram-arm",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "armenian",
-                  "codepoint": "֏"
-               },
-               {
-                  "unicode": "0192",
-                  "name": "florin",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "latin",
-                  "codepoint": "ƒ"
-               },
-               {
-                  "unicode": "20B4",
-                  "name": "hryvnia",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₴"
-               },
-               {
-                  "unicode": "20BE",
-                  "name": "lari",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₾"
-               },
-               {
-                  "unicode": "20BA",
-                  "name": "liraTurkish",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₺"
-               },
-               {
-                  "unicode": "20B9",
-                  "name": "rupeeIndian",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₹"
-               },
-               {
-                  "unicode": "20AA",
-                  "name": "sheqel",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₪"
-               },
-               {
-                  "unicode": "20B8",
-                  "name": "tenge",
-                  "category": "Symbol",
-                  "subCategory": "Currency",
-                  "script": "None",
-                  "codepoint": "₸"
-               },
-               {
-                  "unicode": "2219",
-                  "name": "bulletoperator",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "∙"
-               },
-               {
-                  "unicode": "2215",
-                  "name": "divisionslash",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "∕"
-               },
-               {
-                  "unicode": "002B",
-                  "name": "plus",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "+"
-               },
-               {
-                  "unicode": "2212",
-                  "name": "minus",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "−"
-               },
-               {
-                  "unicode": "00D7",
-                  "name": "multiply",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "×"
-               },
-               {
-                  "unicode": "00F7",
-                  "name": "divide",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "÷"
-               },
-               {
-                  "unicode": "003D",
-                  "name": "equal",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "="
-               },
-               {
-                  "unicode": "2260",
-                  "name": "notequal",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "≠"
-               },
-               {
-                  "unicode": "003E",
-                  "name": "greater",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": ">"
-               },
-               {
-                  "unicode": "003C",
-                  "name": "less",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "<"
-               },
-               {
-                  "unicode": "2265",
-                  "name": "greaterequal",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "≥"
-               },
-               {
-                  "unicode": "00B1",
-                  "name": "plusminus",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "±"
-               },
-               {
-                  "unicode": "007E",
-                  "name": "asciitilde",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "~"
-               },
-               {
-                  "unicode": "00AC",
-                  "name": "logicalnot",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "¬"
-               },
-               {
-                  "unicode": "005E",
-                  "name": "asciicircum",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "^"
-               },
-               {
-                  "unicode": "221E",
-                  "name": "infinity",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "∞"
-               },
-               {
-                  "unicode": "2126",
-                  "name": "Ohm",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "Ω"
-               },
-               {
-                  "unicode": "2206",
-                  "name": "increment",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "∆"
-               },
-               {
-                  "unicode": "00B5",
-                  "name": "micro",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "µ"
-               },
-               {
-                  "unicode": "2202",
-                  "name": "partialdiff",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "∂"
-               },
-               {
-                  "unicode": "0025",
-                  "name": "percent",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "%"
-               },
-               {
-                  "unicode": "2030",
-                  "name": "perthousand",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "‰"
-               },
-               {
-                  "unicode": "2264",
-                  "name": "lessequal",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "≤"
-               },
-               {
-                  "unicode": "2248",
-                  "name": "approxequal",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "≈"
-               },
-               {
-                  "unicode": "222B",
-                  "name": "integral",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "∫"
-               },
-               {
-                  "unicode": "220F",
-                  "name": "product",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "∏"
-               },
-               {
-                  "unicode": "2211",
-                  "name": "summation",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "∑"
-               },
-               {
-                  "unicode": "221A",
-                  "name": "radical",
-                  "category": "Symbol",
-                  "subCategory": "Math",
-                  "script": "None",
-                  "codepoint": "√"
-               },
-               {
-                  "unicode": "2191",
-                  "name": "upArrow",
-                  "category": "Symbol",
-                  "subCategory": "Arrow",
-                  "script": "None",
-                  "codepoint": "↑"
-               },
-               {
-                  "unicode": "2192",
-                  "name": "rightArrow",
-                  "category": "Symbol",
-                  "subCategory": "Arrow",
-                  "script": "None",
-                  "codepoint": "→"
-               },
-               {
-                  "unicode": "2193",
-                  "name": "downArrow",
-                  "category": "Symbol",
-                  "subCategory": "Arrow",
-                  "script": "None",
-                  "codepoint": "↓"
-               },
-               {
-                  "unicode": "2190",
-                  "name": "leftArrow",
-                  "category": "Symbol",
-                  "subCategory": "Arrow",
-                  "script": "None",
-                  "codepoint": "←"
-               },
-               {
-                  "unicode": "25CF",
-                  "name": "blackCircle",
-                  "category": "Symbol",
-                  "subCategory": "Geometry",
-                  "script": "None",
-                  "codepoint": "●"
-               },
-               {
-                  "unicode": "25CA",
-                  "name": "lozenge",
-                  "category": "Symbol",
-                  "subCategory": "Geometry",
-                  "script": "None",
-                  "codepoint": "◊"
-               },
-               {
-                  "unicode": "F8FF",
-                  "name": "apple",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": ""
-               },
-               {
-                  "unicode": "0040",
-                  "name": "at",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "@"
-               },
-               {
-                  "unicode": "0026",
-                  "name": "ampersand",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "&"
-               },
-               {
-                  "unicode": "00B6",
-                  "name": "paragraph",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "¶"
-               },
-               {
-                  "unicode": "00A7",
-                  "name": "section",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "§"
-               },
-               {
-                  "unicode": "00A9",
-                  "name": "copyright",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "©"
-               },
-               {
-                  "unicode": "00AE",
-                  "name": "registered",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "®"
-               },
-               {
-                  "unicode": "2122",
-                  "name": "trademark",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "™"
-               },
-               {
-                  "unicode": "00B0",
-                  "name": "degree",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "°"
-               },
-               {
-                  "unicode": "2032",
-                  "name": "minute",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "′"
-               },
-               {
-                  "unicode": "2033",
-                  "name": "second",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "″"
-               },
-               {
-                  "unicode": "007C",
-                  "name": "bar",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "|"
-               },
-               {
-                  "unicode": "00A6",
-                  "name": "brokenbar",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "¦"
-               },
-               {
-                  "unicode": "2020",
-                  "name": "dagger",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "†"
-               },
-               {
-                  "unicode": "2113",
-                  "name": "literSign",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "ℓ"
-               },
-               {
-                  "unicode": "2021",
-                  "name": "daggerdbl",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "‡"
-               },
-               {
-                  "unicode": "212E",
-                  "name": "estimated",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "℮"
-               },
-               {
-                  "unicode": "2116",
-                  "name": "numero",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "№"
-               },
-               {
-                  "unicode": "1F3C3",
-                  "name": "runner",
-                  "category": "Symbol",
-                  "subCategory": "Emoji",
-                  "script": "None",
-                  "codepoint": "Ἴ3"
-               },
-               {
-                  "unicode": "261B",
-                  "name": "rightBlackIndex",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "☛"
-               },
-               {
-                  "unicode": "261E",
-                  "name": "rightWhiteIndex",
-                  "category": "Symbol",
-                  "subCategory": "None",
-                  "script": "None",
-                  "codepoint": "☞"
-               },
-               {
-                  "unicode": "02C9",
-                  "name": "firsttonechinese",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "ˉ"
-               },
-               {
-                  "unicode": "0308",
-                  "name": "dieresiscomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̈"
-               },
-               {
-                  "unicode": "0307",
-                  "name": "dotaccentcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̇"
-               },
-               {
-                  "unicode": "0300",
-                  "name": "gravecomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̀"
-               },
-               {
-                  "unicode": "0301",
-                  "name": "acutecomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "́"
-               },
-               {
-                  "unicode": "030B",
-                  "name": "hungarumlautcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̋"
-               },
-               {
-                  "unicode": "0302",
-                  "name": "circumflexcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̂"
-               },
-               {
-                  "unicode": "030C",
-                  "name": "caroncomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̌"
-               },
-               {
-                  "unicode": "0306",
-                  "name": "brevecomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̆"
-               },
-               {
-                  "unicode": "030A",
-                  "name": "ringcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̊"
-               },
-               {
-                  "unicode": "0303",
-                  "name": "tildecomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̃"
-               },
-               {
-                  "unicode": "0304",
-                  "name": "macroncomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̄"
-               },
-               {
-                  "unicode": "0312",
-                  "name": "commaturnedabovecomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̒"
-               },
-               {
-                  "unicode": "0326",
-                  "name": "commaaccentcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̦"
-               },
-               {
-                  "unicode": "0327",
-                  "name": "cedillacomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̧"
-               },
-               {
-                  "unicode": "0328",
-                  "name": "ogonekcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̨"
-               },
-               {
-                  "unicode": "0335",
-                  "name": "strokeshortcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̵"
-               },
-               {
-                  "unicode": "0337",
-                  "name": "slashshortcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̷"
-               },
-               {
-                  "unicode": "0338",
-                  "name": "slashlongcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̸"
-               },
-               {
-                  "unicode": "00A8",
-                  "name": "dieresis",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "¨"
-               },
-               {
-                  "unicode": "02D9",
-                  "name": "dotaccent",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "˙"
-               },
-               {
-                  "unicode": "0060",
-                  "name": "grave",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "`"
-               },
-               {
-                  "unicode": "00B4",
-                  "name": "acute",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "´"
-               },
-               {
-                  "unicode": "02DD",
-                  "name": "hungarumlaut",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "˝"
-               },
-               {
-                  "unicode": "02C6",
-                  "name": "circumflex",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "ˆ"
-               },
-               {
-                  "unicode": "02C7",
-                  "name": "caron",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "ˇ"
-               },
-               {
-                  "unicode": "02D8",
-                  "name": "breve",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "˘"
-               },
-               {
-                  "unicode": "02DA",
-                  "name": "ring",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "˚"
-               },
-               {
-                  "unicode": "02DC",
-                  "name": "tilde",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "˜"
-               },
-               {
-                  "unicode": "00AF",
-                  "name": "macron",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "¯"
-               },
-               {
-                  "unicode": "00B8",
-                  "name": "cedilla",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "¸"
-               },
-               {
-                  "unicode": "02DB",
-                  "name": "ogonek",
-                  "category": "Mark",
-                  "subCategory": "Spacing",
-                  "script": "None",
-                  "codepoint": "˛"
-               },
-               {
-                  "unicode": "0336",
-                  "name": "strokelongcomb",
-                  "category": "Mark",
-                  "subCategory": "Nonspacing",
-                  "script": "None",
-                  "codepoint": "̶"
-               }
-            ]
+            "familyname": "Avond",
+            "name": "Regular",
+            "weight": "400",
+            "sampletext": "Seven Cures For a Lean Purse"
+         },
+         {
+            "id": "3",
+            "familyname": "Avond",
+            "name": "Semi Bold",
+            "weight": "600",
+            "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus"
+         },
+         {
+            "id": "4",
+            "familyname": "Avond",
+            "name": "Bold",
+            "weight": "700",
+            "sampletext": "Don’t Make Me Think, Steve Krug"
          }
+      ],
+      "features": [
+         {
+            "id": "1",
+            "name": "Alternative'a'",
+            "sampletext": "a — androgynous",
+            "code": "ss01"
+         },
+         {
+            "id": "2",
+            "name": "Alternative Terminal Endings",
+            "sampletext": "G – Gemini",
+            "code": "ss02"
+         },
+         {
+            "id": "3",
+            "name": "Alternative'R'",
+            "sampletext": "R – Rotonde",
+            "code": "ss03"
+         },
+         {
+            "id": "4",
+            "name": "Tabular Numbers",
+            "sampletext": "1234567890",
+            "code": "tnum"
+         },
+         {
+            "id": "5",
+            "name": "Case Sensitive Forms",
+            "sampletext": "H–[H]",
+            "code": "case"
+         },
+         {
+            "id": "6",
+            "name": "Ligatures",
+            "sampletext": "ff fl fi ffl ffi",
+            "code": "liga"
+         },
+         {
+            "id": "7",
+            "name": "Discretionary Ligatures",
+            "sampletext": "fh fk fb",
+            "code": "dlig"
+         },
+         {
+            "id": "8",
+            "name": "Slashed Zero",
+            "sampletext": "0",
+            "code": "zero"
+         }
+      ],
+      "characterset": [
+         {"unicode": "0041" , "name": "A" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "A" },
+{"unicode": "00C1" , "name": "Aacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Á" },
+{"unicode": "0102" , "name": "Abreve" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ă" },
+{"unicode": "00C2" , "name": "Acircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Â" },
+{"unicode": "00C4" , "name": "Adieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ä" },
+{"unicode": "00C0" , "name": "Agrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "À" },
+{"unicode": "0100" , "name": "Amacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ā" },
+{"unicode": "0104" , "name": "Aogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ą" },
+{"unicode": "00C5" , "name": "Aring" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Å" },
+{"unicode": "00C3" , "name": "Atilde" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ã" },
+{"unicode": "00C6" , "name": "AE" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Æ" },
+{"unicode": "0042" , "name": "B" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "B" },
+{"unicode": "0043" , "name": "C" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "C" },
+{"unicode": "0106" , "name": "Cacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ć" },
+{"unicode": "010C" , "name": "Ccaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Č" },
+{"unicode": "00C7" , "name": "Ccedilla" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ç" },
+{"unicode": "0044" , "name": "D" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "D" },
+{"unicode": "00D0" , "name": "Eth" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ð" },
+{"unicode": "010E" , "name": "Dcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ď" },
+{"unicode": "0110" , "name": "Dcroat" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Đ" },
+{"unicode": "0045" , "name": "E" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "E" },
+{"unicode": "00C9" , "name": "Eacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "É" },
+{"unicode": "011A" , "name": "Ecaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ě" },
+{"unicode": "00CA" , "name": "Ecircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ê" },
+{"unicode": "00CB" , "name": "Edieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ë" },
+{"unicode": "0116" , "name": "Edotaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ė" },
+{"unicode": "00C8" , "name": "Egrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "È" },
+{"unicode": "0112" , "name": "Emacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ē" },
+{"unicode": "0118" , "name": "Eogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ę" },
+{"unicode": "0046" , "name": "F" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "F" },
+{"unicode": "0047" , "name": "G" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "G" },
+{"unicode": "0122" , "name": "Gcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ģ" },
+{"unicode": "0048" , "name": "H" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "H" },
+{"unicode": "0049" , "name": "I" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "I" },
+{"unicode": "00CD" , "name": "Iacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Í" },
+{"unicode": "00CE" , "name": "Icircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Î" },
+{"unicode": "00CF" , "name": "Idieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ï" },
+{"unicode": "00CC" , "name": "Igrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ì" },
+{"unicode": "012A" , "name": "Imacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ī" },
+{"unicode": "012E" , "name": "Iogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Į" },
+{"unicode": "004A" , "name": "J" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "J" },
+{"unicode": "004B" , "name": "K" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "K" },
+{"unicode": "0136" , "name": "Kcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ķ" },
+{"unicode": "004C" , "name": "L" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "L" },
+{"unicode": "0139" , "name": "Lacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ĺ" },
+{"unicode": "013D" , "name": "Lcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ľ" },
+{"unicode": "013B" , "name": "Lcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ļ" },
+{"unicode": "0141" , "name": "Lslash" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ł" },
+{"unicode": "004D" , "name": "M" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "M" },
+{"unicode": "004E" , "name": "N" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "N" },
+{"unicode": "0143" , "name": "Nacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ń" },
+{"unicode": "0147" , "name": "Ncaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ň" },
+{"unicode": "0145" , "name": "Ncommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ņ" },
+{"unicode": "014A" , "name": "Eng" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ŋ" },
+{"unicode": "00D1" , "name": "Ntilde" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ñ" },
+{"unicode": "004F" , "name": "O" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "O" },
+{"unicode": "00D3" , "name": "Oacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ó" },
+{"unicode": "00D4" , "name": "Ocircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ô" },
+{"unicode": "00D6" , "name": "Odieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ö" },
+{"unicode": "00D2" , "name": "Ograve" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ò" },
+{"unicode": "0150" , "name": "Ohungarumlaut" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ő" },
+{"unicode": "014C" , "name": "Omacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ō" },
+{"unicode": "00D8" , "name": "Oslash" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ø" },
+{"unicode": "00D5" , "name": "Otilde" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Õ" },
+{"unicode": "0152" , "name": "OE" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Œ" },
+{"unicode": "0050" , "name": "P" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "P" },
+{"unicode": "00DE" , "name": "Thorn" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Þ" },
+{"unicode": "0051" , "name": "Q" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Q" },
+{"unicode": "0052" , "name": "R" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "R" },
+{"unicode": "0154" , "name": "Racute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ŕ" },
+{"unicode": "0158" , "name": "Rcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ř" },
+{"unicode": "0156" , "name": "Rcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ŗ" },
+{"unicode": "0053" , "name": "S" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "S" },
+{"unicode": "015A" , "name": "Sacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ś" },
+{"unicode": "0160" , "name": "Scaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Š" },
+{"unicode": "015E" , "name": "Scedilla" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ş" },
+{"unicode": "1E9E" , "name": "Germandbls" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ẞ" },
+{"unicode": "0054" , "name": "T" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "T" },
+{"unicode": "0166" , "name": "Tbar" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ŧ" },
+{"unicode": "0164" , "name": "Tcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ť" },
+{"unicode": "0162" , "name": "Tcedilla" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ţ" },
+{"unicode": "0055" , "name": "U" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "U" },
+{"unicode": "00DA" , "name": "Uacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ú" },
+{"unicode": "00DB" , "name": "Ucircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Û" },
+{"unicode": "00DC" , "name": "Udieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ü" },
+{"unicode": "00D9" , "name": "Ugrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ù" },
+{"unicode": "0170" , "name": "Uhungarumlaut" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ű" },
+{"unicode": "016A" , "name": "Umacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ū" },
+{"unicode": "0172" , "name": "Uogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ų" },
+{"unicode": "016E" , "name": "Uring" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ů" },
+{"unicode": "0056" , "name": "V" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "V" },
+{"unicode": "0057" , "name": "W" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "W" },
+{"unicode": "1E82" , "name": "Wacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ẃ" },
+{"unicode": "0174" , "name": "Wcircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ŵ" },
+{"unicode": "1E84" , "name": "Wdieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ẅ" },
+{"unicode": "1E80" , "name": "Wgrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ẁ" },
+{"unicode": "0058" , "name": "X" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "X" },
+{"unicode": "0059" , "name": "Y" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Y" },
+{"unicode": "00DD" , "name": "Yacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ý" },
+{"unicode": "0176" , "name": "Ycircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ŷ" },
+{"unicode": "0178" , "name": "Ydieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ÿ" },
+{"unicode": "1EF2" , "name": "Ygrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ỳ" },
+{"unicode": "005A" , "name": "Z" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Z" },
+{"unicode": "0179" , "name": "Zacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ź" },
+{"unicode": "017D" , "name": "Zcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ž" },
+{"unicode": "017B" , "name": "Zdotaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Ż" },
+{"unicode": "0061" , "name": "a" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "a" },
+{"unicode": "00E1" , "name": "aacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "á" },
+{"unicode": "0103" , "name": "abreve" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ă" },
+{"unicode": "00E2" , "name": "acircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "â" },
+{"unicode": "00E4" , "name": "adieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ä" },
+{"unicode": "00E0" , "name": "agrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "à" },
+{"unicode": "0101" , "name": "amacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ā" },
+{"unicode": "0105" , "name": "aogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ą" },
+{"unicode": "00E5" , "name": "aring" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "å" },
+{"unicode": "00E3" , "name": "atilde" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ã" },
+{"unicode": "00E6" , "name": "ae" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "æ" },
+{"unicode": "0062" , "name": "b" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "b" },
+{"unicode": "0063" , "name": "c" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "c" },
+{"unicode": "0107" , "name": "cacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ć" },
+{"unicode": "010D" , "name": "ccaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "č" },
+{"unicode": "00E7" , "name": "ccedilla" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ç" },
+{"unicode": "0064" , "name": "d" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "d" },
+{"unicode": "00F0" , "name": "eth" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ð" },
+{"unicode": "010F" , "name": "dcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ď" },
+{"unicode": "0111" , "name": "dcroat" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "đ" },
+{"unicode": "0065" , "name": "e" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "e" },
+{"unicode": "00E9" , "name": "eacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "é" },
+{"unicode": "011B" , "name": "ecaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ě" },
+{"unicode": "00EA" , "name": "ecircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ê" },
+{"unicode": "00EB" , "name": "edieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ë" },
+{"unicode": "0117" , "name": "edotaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ė" },
+{"unicode": "00E8" , "name": "egrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "è" },
+{"unicode": "0113" , "name": "emacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ē" },
+{"unicode": "0119" , "name": "eogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ę" },
+{"unicode": "0066" , "name": "f" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "f" },
+{"unicode": "0067" , "name": "g" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "g" },
+{"unicode": "0123" , "name": "gcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ģ" },
+{"unicode": "0068" , "name": "h" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "h" },
+{"unicode": "0069" , "name": "i" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "i" },
+{"unicode": "0131" , "name": "idotless" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ı" },
+{"unicode": "00ED" , "name": "iacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "í" },
+{"unicode": "00EE" , "name": "icircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "î" },
+{"unicode": "00EF" , "name": "idieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ï" },
+{"unicode": "00EC" , "name": "igrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ì" },
+{"unicode": "012B" , "name": "imacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ī" },
+{"unicode": "012F" , "name": "iogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "į" },
+{"unicode": "006A" , "name": "j" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "j" },
+{"unicode": "006B" , "name": "k" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "k" },
+{"unicode": "0137" , "name": "kcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ķ" },
+{"unicode": "006C" , "name": "l" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "l" },
+{"unicode": "013A" , "name": "lacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ĺ" },
+{"unicode": "013E" , "name": "lcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ľ" },
+{"unicode": "013C" , "name": "lcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ļ" },
+{"unicode": "0142" , "name": "lslash" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ł" },
+{"unicode": "006D" , "name": "m" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "m" },
+{"unicode": "006E" , "name": "n" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "n" },
+{"unicode": "0144" , "name": "nacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ń" },
+{"unicode": "0148" , "name": "ncaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ň" },
+{"unicode": "0146" , "name": "ncommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ņ" },
+{"unicode": "014B" , "name": "eng" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ŋ" },
+{"unicode": "00F1" , "name": "ntilde" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ñ" },
+{"unicode": "006F" , "name": "o" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "o" },
+{"unicode": "00F3" , "name": "oacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ó" },
+{"unicode": "00F4" , "name": "ocircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ô" },
+{"unicode": "00F6" , "name": "odieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ö" },
+{"unicode": "00F2" , "name": "ograve" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ò" },
+{"unicode": "0151" , "name": "ohungarumlaut" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ő" },
+{"unicode": "014D" , "name": "omacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ō" },
+{"unicode": "00F8" , "name": "oslash" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ø" },
+{"unicode": "00F5" , "name": "otilde" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "õ" },
+{"unicode": "0153" , "name": "oe" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "œ" },
+{"unicode": "0070" , "name": "p" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "p" },
+{"unicode": "00FE" , "name": "thorn" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "þ" },
+{"unicode": "0071" , "name": "q" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "q" },
+{"unicode": "0072" , "name": "r" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "r" },
+{"unicode": "0155" , "name": "racute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ŕ" },
+{"unicode": "0159" , "name": "rcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ř" },
+{"unicode": "0157" , "name": "rcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ŗ" },
+{"unicode": "0073" , "name": "s" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "s" },
+{"unicode": "015B" , "name": "sacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ś" },
+{"unicode": "0161" , "name": "scaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "š" },
+{"unicode": "015F" , "name": "scedilla" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ş" },
+{"unicode": "00DF" , "name": "germandbls" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ß" },
+{"unicode": "0074" , "name": "t" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "t" },
+{"unicode": "0167" , "name": "tbar" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ŧ" },
+{"unicode": "0165" , "name": "tcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ť" },
+{"unicode": "0163" , "name": "tcedilla" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ţ" },
+{"unicode": "0075" , "name": "u" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "u" },
+{"unicode": "00FA" , "name": "uacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ú" },
+{"unicode": "00FB" , "name": "ucircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "û" },
+{"unicode": "00FC" , "name": "udieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ü" },
+{"unicode": "00F9" , "name": "ugrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ù" },
+{"unicode": "0171" , "name": "uhungarumlaut" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ű" },
+{"unicode": "016B" , "name": "umacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ū" },
+{"unicode": "0173" , "name": "uogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ų" },
+{"unicode": "016F" , "name": "uring" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ů" },
+{"unicode": "0076" , "name": "v" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "v" },
+{"unicode": "0077" , "name": "w" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "w" },
+{"unicode": "1E83" , "name": "wacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ẃ" },
+{"unicode": "0175" , "name": "wcircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ŵ" },
+{"unicode": "1E85" , "name": "wdieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ẅ" },
+{"unicode": "1E81" , "name": "wgrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ẁ" },
+{"unicode": "0078" , "name": "x" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "x" },
+{"unicode": "0079" , "name": "y" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "y" },
+{"unicode": "00FD" , "name": "yacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ý" },
+{"unicode": "0177" , "name": "ycircumflex" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ŷ" },
+{"unicode": "00FF" , "name": "ydieresis" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ÿ" },
+{"unicode": "1EF3" , "name": "ygrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ỳ" },
+{"unicode": "007A" , "name": "z" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "z" },
+{"unicode": "017A" , "name": "zacute" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ź" },
+{"unicode": "017E" , "name": "zcaron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ž" },
+{"unicode": "017C" , "name": "zdotaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ż" },
+{"unicode": "FB01" , "name": "fi" , "category": "Letter" , "subCategory": "Ligature" , "script": "latin" , "codepoint": "ﬁ" },
+{"unicode": "FB02" , "name": "fl" , "category": "Letter" , "subCategory": "Ligature" , "script": "latin" , "codepoint": "ﬂ" },
+{"unicode": "00AA" , "name": "ordfeminine" , "category": "Letter" , "subCategory": "Superscript" , "script": "latin" , "codepoint": "ª" },
+{"unicode": "00BA" , "name": "ordmasculine" , "category": "Letter" , "subCategory": "Superscript" , "script": "latin" , "codepoint": "º" },
+{"unicode": "03B2" , "name": "beta" , "category": "Letter" , "subCategory": "None" , "script": "greek" , "codepoint": "β" },
+{"unicode": "03C0" , "name": "pi" , "category": "Letter" , "subCategory": "None" , "script": "greek" , "codepoint": "π" },
+{"unicode": "0030" , "name": "zero" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "0" },
+{"unicode": "0031" , "name": "one" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "1" },
+{"unicode": "0032" , "name": "two" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "2" },
+{"unicode": "0033" , "name": "three" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "3" },
+{"unicode": "0034" , "name": "four" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "4" },
+{"unicode": "0035" , "name": "five" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "5" },
+{"unicode": "0036" , "name": "six" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "6" },
+{"unicode": "0037" , "name": "seven" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "7" },
+{"unicode": "0038" , "name": "eight" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "8" },
+{"unicode": "0039" , "name": "nine" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "9" },
+{"unicode": "2080" , "name": "zeroinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₀" },
+{"unicode": "2081" , "name": "oneinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₁" },
+{"unicode": "2082" , "name": "twoinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₂" },
+{"unicode": "2083" , "name": "threeinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₃" },
+{"unicode": "2084" , "name": "fourinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₄" },
+{"unicode": "2085" , "name": "fiveinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₅" },
+{"unicode": "2086" , "name": "sixinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₆" },
+{"unicode": "2087" , "name": "seveninferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₇" },
+{"unicode": "2088" , "name": "eightinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₈" },
+{"unicode": "2089" , "name": "nineinferior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "₉" },
+{"unicode": "2070" , "name": "zerosuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "⁰" },
+{"unicode": "00B9" , "name": "onesuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "¹" },
+{"unicode": "00B2" , "name": "twosuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "²" },
+{"unicode": "00B3" , "name": "threesuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "³" },
+{"unicode": "2074" , "name": "foursuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "⁴" },
+{"unicode": "2075" , "name": "fivesuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "⁵" },
+{"unicode": "2076" , "name": "sixsuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "⁶" },
+{"unicode": "2077" , "name": "sevensuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "⁷" },
+{"unicode": "2078" , "name": "eightsuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "⁸" },
+{"unicode": "2079" , "name": "ninesuperior" , "category": "Number" , "subCategory": "Small" , "script": "None" , "codepoint": "⁹" },
+{"unicode": "2044" , "name": "fraction" , "category": "Number" , "subCategory": "Fraction" , "script": "None" , "codepoint": "⁄" },
+{"unicode": "00BD" , "name": "onehalf" , "category": "Number" , "subCategory": "Fraction" , "script": "None" , "codepoint": "½" },
+{"unicode": "00BC" , "name": "onequarter" , "category": "Number" , "subCategory": "Fraction" , "script": "None" , "codepoint": "¼" },
+{"unicode": "00BE" , "name": "threequarters" , "category": "Number" , "subCategory": "Fraction" , "script": "None" , "codepoint": "¾" },
+{"unicode": "002E" , "name": "period" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "." },
+{"unicode": "002C" , "name": "comma" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "," },
+{"unicode": "003A" , "name": "colon" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": ":" },
+{"unicode": "003B" , "name": "semicolon" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": ";" },
+{"unicode": "2026" , "name": "ellipsis" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "…" },
+{"unicode": "0021" , "name": "exclam" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "!" },
+{"unicode": "00A1" , "name": "exclamdown" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "¡" },
+{"unicode": "003F" , "name": "question" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "?" },
+{"unicode": "00BF" , "name": "questiondown" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "¿" },
+{"unicode": "00B7" , "name": "periodcentered" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "·" },
+{"unicode": "2022" , "name": "bullet" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "•" },
+{"unicode": "002A" , "name": "asterisk" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "*" },
+{"unicode": "0023" , "name": "numbersign" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "#" },
+{"unicode": "002F" , "name": "slash" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "/" },
+{"unicode": "005C" , "name": "backslash" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "\\" },
+{"unicode": "203D" , "name": "interrobang" , "category": "Punctuation" , "subCategory": "None" , "script": "None" , "codepoint": "‽" },
+{"unicode": "0028" , "name": "parenleft" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "(" },
+{"unicode": "0029" , "name": "parenright" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": ")" },
+{"unicode": "007B" , "name": "braceleft" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "{" },
+{"unicode": "007D" , "name": "braceright" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "}" },
+{"unicode": "005B" , "name": "bracketleft" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "[" },
+{"unicode": "005D" , "name": "bracketright" , "category": "Punctuation" , "subCategory": "Parenthesis" , "script": "None" , "codepoint": "]" },
+{"unicode": "002D" , "name": "hyphen" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "-" },
+{"unicode": "00AD" , "name": "softhyphen" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "­" },
+{"unicode": "2013" , "name": "endash" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "–" },
+{"unicode": "2014" , "name": "emdash" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "—" },
+{"unicode": "005F" , "name": "underscore" , "category": "Punctuation" , "subCategory": "Dash" , "script": "None" , "codepoint": "_" },
+{"unicode": "201A" , "name": "quotesinglbase" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "‚" },
+{"unicode": "201E" , "name": "quotedblbase" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "„" },
+{"unicode": "201C" , "name": "quotedblleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "“" },
+{"unicode": "201D" , "name": "quotedblright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "”" },
+{"unicode": "2018" , "name": "quoteleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "‘" },
+{"unicode": "2019" , "name": "quoteright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "’" },
+{"unicode": "00AB" , "name": "guillemetleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "«" },
+{"unicode": "00BB" , "name": "guillemetright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "»" },
+{"unicode": "2039" , "name": "guilsinglleft" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "‹" },
+{"unicode": "203A" , "name": "guilsinglright" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "›" },
+{"unicode": "2057" , "name": "quadrupleprime" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "⁗" },
+{"unicode": "2034" , "name": "tripleprime" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "‴" },
+{"unicode": "0022" , "name": "quotedbl" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "\"" },
+{"unicode": "0027" , "name": "quotesingle" , "category": "Punctuation" , "subCategory": "Quote" , "script": "None" , "codepoint": "'" },
+{"unicode": "0020" , "name": "space" , "category": "Separator" , "subCategory": "Space" , "script": "None" , "codepoint": " " },
+{"unicode": "00A0" , "name": "nbspace" , "category": "Separator" , "subCategory": "Space" , "script": "None" , "codepoint": " " },
+{"unicode": "20BF" , "name": "bitcoin" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₿" },
+{"unicode": "00A2" , "name": "cent" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "¢" },
+{"unicode": "00A4" , "name": "currency" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "¤" },
+{"unicode": "0024" , "name": "dollar" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "$" },
+{"unicode": "20AC" , "name": "euro" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "€" },
+{"unicode": "20BD" , "name": "ruble" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₽" },
+{"unicode": "00A3" , "name": "sterling" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "£" },
+{"unicode": "20A9" , "name": "won" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₩" },
+{"unicode": "00A5" , "name": "yen" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "¥" },
+{"unicode": "058F" , "name": "dram-arm" , "category": "Symbol" , "subCategory": "Currency" , "script": "armenian" , "codepoint": "֏" },
+{"unicode": "0192" , "name": "florin" , "category": "Symbol" , "subCategory": "Currency" , "script": "latin" , "codepoint": "ƒ" },
+{"unicode": "20B4" , "name": "hryvnia" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₴" },
+{"unicode": "20BE" , "name": "lari" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₾" },
+{"unicode": "20BA" , "name": "liraTurkish" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₺" },
+{"unicode": "20B9" , "name": "rupeeIndian" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₹" },
+{"unicode": "20AA" , "name": "sheqel" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₪" },
+{"unicode": "20B8" , "name": "tenge" , "category": "Symbol" , "subCategory": "Currency" , "script": "None" , "codepoint": "₸" },
+{"unicode": "2219" , "name": "bulletoperator" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "∙" },
+{"unicode": "2215" , "name": "divisionslash" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "∕" },
+{"unicode": "002B" , "name": "plus" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "+" },
+{"unicode": "2212" , "name": "minus" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "−" },
+{"unicode": "00D7" , "name": "multiply" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "×" },
+{"unicode": "00F7" , "name": "divide" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "÷" },
+{"unicode": "003D" , "name": "equal" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "=" },
+{"unicode": "2260" , "name": "notequal" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "≠" },
+{"unicode": "003E" , "name": "greater" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": ">" },
+{"unicode": "003C" , "name": "less" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "<" },
+{"unicode": "2265" , "name": "greaterequal" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "≥" },
+{"unicode": "00B1" , "name": "plusminus" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "±" },
+{"unicode": "007E" , "name": "asciitilde" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "~" },
+{"unicode": "00AC" , "name": "logicalnot" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "¬" },
+{"unicode": "005E" , "name": "asciicircum" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "^" },
+{"unicode": "221E" , "name": "infinity" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "∞" },
+{"unicode": "2126" , "name": "Ohm" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "Ω" },
+{"unicode": "2206" , "name": "increment" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "∆" },
+{"unicode": "00B5" , "name": "micro" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "µ" },
+{"unicode": "2202" , "name": "partialdiff" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "∂" },
+{"unicode": "0025" , "name": "percent" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "%" },
+{"unicode": "2030" , "name": "perthousand" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "‰" },
+{"unicode": "2264" , "name": "lessequal" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "≤" },
+{"unicode": "2248" , "name": "approxequal" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "≈" },
+{"unicode": "222B" , "name": "integral" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "∫" },
+{"unicode": "220F" , "name": "product" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "∏" },
+{"unicode": "2211" , "name": "summation" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "∑" },
+{"unicode": "221A" , "name": "radical" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "√" },
+{"unicode": "2191" , "name": "upArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↑" },
+{"unicode": "2192" , "name": "rightArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "→" },
+{"unicode": "2193" , "name": "downArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↓" },
+{"unicode": "2190" , "name": "leftArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "←" },
+{"unicode": "25CF" , "name": "blackCircle" , "category": "Symbol" , "subCategory": "Geometry" , "script": "None" , "codepoint": "●" },
+{"unicode": "25CA" , "name": "lozenge" , "category": "Symbol" , "subCategory": "Geometry" , "script": "None" , "codepoint": "◊" },
+{"unicode": "F8FF" , "name": "apple" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "" },
+{"unicode": "0040" , "name": "at" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "@" },
+{"unicode": "0026" , "name": "ampersand" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "&" },
+{"unicode": "00B6" , "name": "paragraph" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "¶" },
+{"unicode": "00A7" , "name": "section" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "§" },
+{"unicode": "00A9" , "name": "copyright" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "©" },
+{"unicode": "00AE" , "name": "registered" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "®" },
+{"unicode": "2122" , "name": "trademark" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "™" },
+{"unicode": "00B0" , "name": "degree" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "°" },
+{"unicode": "2032" , "name": "minute" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "′" },
+{"unicode": "2033" , "name": "second" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "″" },
+{"unicode": "007C" , "name": "bar" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "|" },
+{"unicode": "00A6" , "name": "brokenbar" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "¦" },
+{"unicode": "2020" , "name": "dagger" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "†" },
+{"unicode": "2113" , "name": "literSign" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "ℓ" },
+{"unicode": "2021" , "name": "daggerdbl" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "‡" },
+{"unicode": "212E" , "name": "estimated" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "℮" },
+{"unicode": "2116" , "name": "numero" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "№" },
+{"unicode": "1F3C3" , "name": "runner" , "category": "Symbol" , "subCategory": "Emoji" , "script": "None" , "codepoint": "Ἴ3" },
+{"unicode": "261B" , "name": "rightBlackIndex" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "☛" },
+{"unicode": "261E" , "name": "rightWhiteIndex" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "☞" },
+{"unicode": "02C9" , "name": "firsttonechinese" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "ˉ" },
+{"unicode": "0308" , "name": "dieresiscomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̈" },
+{"unicode": "0307" , "name": "dotaccentcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̇" },
+{"unicode": "0300" , "name": "gravecomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̀" },
+{"unicode": "0301" , "name": "acutecomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "́" },
+{"unicode": "030B" , "name": "hungarumlautcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̋" },
+{"unicode": "0302" , "name": "circumflexcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̂" },
+{"unicode": "030C" , "name": "caroncomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̌" },
+{"unicode": "0306" , "name": "brevecomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̆" },
+{"unicode": "030A" , "name": "ringcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̊" },
+{"unicode": "0303" , "name": "tildecomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̃" },
+{"unicode": "0304" , "name": "macroncomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̄" },
+{"unicode": "0312" , "name": "commaturnedabovecomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̒" },
+{"unicode": "0326" , "name": "commaaccentcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̦" },
+{"unicode": "0327" , "name": "cedillacomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̧" },
+{"unicode": "0328" , "name": "ogonekcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̨" },
+{"unicode": "0335" , "name": "strokeshortcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̵" },
+{"unicode": "0337" , "name": "slashshortcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̷" },
+{"unicode": "0338" , "name": "slashlongcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̸" },
+{"unicode": "00A8" , "name": "dieresis" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "¨" },
+{"unicode": "02D9" , "name": "dotaccent" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˙" },
+{"unicode": "0060" , "name": "grave" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "`" },
+{"unicode": "00B4" , "name": "acute" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "´" },
+{"unicode": "02DD" , "name": "hungarumlaut" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˝" },
+{"unicode": "02C6" , "name": "circumflex" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "ˆ" },
+{"unicode": "02C7" , "name": "caron" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "ˇ" },
+{"unicode": "02D8" , "name": "breve" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˘" },
+{"unicode": "02DA" , "name": "ring" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˚" },
+{"unicode": "02DC" , "name": "tilde" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˜" },
+{"unicode": "00AF" , "name": "macron" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "¯" },
+{"unicode": "00B8" , "name": "cedilla" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "¸" },
+{"unicode": "02DB" , "name": "ogonek" , "category": "Mark" , "subCategory": "Spacing" , "script": "None" , "codepoint": "˛" },
+{"unicode": "0336" , "name": "strokelongcomb" , "category": "Mark" , "subCategory": "Nonspacing" , "script": "None" , "codepoint": "̶" }
+
+
       ]
+   }
+]
