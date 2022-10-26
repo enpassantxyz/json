@@ -628,7 +628,7 @@
          {
             "id": "7",
             "name": "Discretionary Ligatures",
-            "sampletext": "fh fk fb",
+            "sampletext": "fh fk fb fj ft st ct",
             "code": "dlig"
          },
          {
