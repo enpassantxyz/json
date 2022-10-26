@@ -300,6 +300,17 @@
             {"unicode": "0078" , "name": "x" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "x" },
             {"unicode": "0079" , "name": "y" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "y" },
             {"unicode": "007A" , "name": "z" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "z" }
+            ],[
+            {"unicode": "0030" , "name": "zero" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "0" },
+            {"unicode": "0031" , "name": "one" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "1" },
+            {"unicode": "0032" , "name": "two" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "2" },
+            {"unicode": "0033" , "name": "three" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "3" },
+            {"unicode": "0034" , "name": "four" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "4" },
+            {"unicode": "0035" , "name": "five" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "5" },
+            {"unicode": "0036" , "name": "six" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "6" },
+            {"unicode": "0037" , "name": "seven" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "7" },
+            {"unicode": "0038" , "name": "eight" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "8" },
+            {"unicode": "0039" , "name": "nine" , "category": "Number" , "subCategory": "Decimal Digit" , "script": "None" , "codepoint": "9" }
             ]
          }
          
