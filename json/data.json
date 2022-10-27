@@ -890,17 +890,9 @@
             "category":"Arrows",
             "glyphs":[
                {"unicode": "2191" , "name": "upArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↑" },
-               {"unicode": "2197" , "name": "northEastArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↗" },
                {"unicode": "2192" , "name": "rightArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "→" },
-               {"unicode": "2198" , "name": "southEastArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↘" },
                {"unicode": "2193" , "name": "downArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↓" },
-               {"unicode": "2199" , "name": "southWestArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↙" },
-               {"unicode": "2190" , "name": "leftArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "←" },
-               {"unicode": "2196" , "name": "northWestArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↖" },
-               {"unicode": "2194" , "name": "leftRightArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↔" },
-               {"unicode": "2195" , "name": "upDownArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↕" },
-               {"unicode": "21B3" , "name": "downTipRightArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↳" },
-               {"unicode": "21B5" , "name": "carriagereturn" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↵" }
+               {"unicode": "2190" , "name": "leftArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "←" }
             ]
          },{
             "category":"Punctuation",
