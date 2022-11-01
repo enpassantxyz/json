@@ -42,7 +42,7 @@
                   "subfamily": "Text",
                   "name": "Medium Italic",
                   "weight": "500",
-                  "sampletext": "So I'mma do this for my family and all of my bros (Aye)"
+                  "sampletext": "Springfield, Scarface"
                },
                {
                   "id": "5",
@@ -66,7 +66,7 @@
                   "subfamily": "Text",
                   "name": "Bold",
                   "weight": "700",
-                  "sampletext": "Don’t Make Me Think, Steve Krug"
+                  "sampletext": "The true principles of life are supply and demand"
                },
                {
                   "id": "8",
@@ -82,7 +82,7 @@
                   "subfamily": "Text",
                   "name": "Extra Bold",
                   "weight": "800",
-                  "sampletext": "upside-down double whole right triangle notehead"
+                  "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day"
                },
                {
                   "id": "10",
@@ -649,8 +649,6 @@
                {"unicode": "2199" , "name": "southWestArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↙" },
                {"unicode": "2190" , "name": "leftArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "←" },
                {"unicode": "2196" , "name": "northWestArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↖" },
-               {"unicode": "2194" , "name": "leftRightArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↔" },
-               {"unicode": "2195" , "name": "upDownArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↕" },
                {"unicode": "21B3" , "name": "downTipRightArrow" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↳" },
                {"unicode": "21B5" , "name": "carriagereturn" , "category": "Symbol" , "subCategory": "Arrow" , "script": "None" , "codepoint": "↵" }
             ]
