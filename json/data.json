@@ -185,7 +185,7 @@
                   "id": "7",
                   "familyname": "Kabeljauw",
                   "subfamily": "Standard",
-                  "isitalic": true,
+                  "isitalic": false,
                   "name": "Bold",
                   "weight": "700",
                   "sampletext": "`sarcofagen` versus `Salopetten` &  GO!"
