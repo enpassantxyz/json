@@ -1124,26 +1124,40 @@
          {
             "id": "1",
             "familyname": "Depeche",
+            "name": "Line",
+            "weight": "100",
+            "sampletext": "Historians speak of such units as 10,000 horsemen, 25,000 chariots, 1200 regiments of foot soldiers with 1000 men to the regiment."
+         },
+         {
+            "id": "2",
+            "familyname": "Depeche",
             "name": "Light",
             "weight": "300",
             "sampletext": "Historians speak of such units as 10,000 horsemen, 25,000 chariots, 1200 regiments of foot soldiers with 1000 men to the regiment."
          },
          {
-            "id": "2",
+            "id": "3",
             "familyname": "Depeche",
             "name": "Regular",
             "weight": "400",
             "sampletext": "Seven Cures For a Lean Purse"
          },
          {
-            "id": "3",
+            "id": "4",
             "familyname": "Depeche",
             "name": "Medium",
             "weight": "500",
             "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus"
          },
          {
-            "id": "4",
+            "id": "5",
+            "familyname": "Depeche",
+            "name": "Semi Bold",
+            "weight": "600",
+            "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus"
+         },
+         {
+            "id": "6",
             "familyname": "Depeche",
             "name": "Bold",
             "weight": "700",
