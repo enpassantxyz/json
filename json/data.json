@@ -1228,19 +1228,19 @@
          {
             "id": "1",
             "name": "Alternative'a'",
-            "sampletext": "a — androgynous",
+            "sampletext": "a — antique",
             "code": "ss01"
          },
          {
             "id": "2",
-            "name": "Alternative Terminal Endings",
-            "sampletext": "G – Gemini",
+            "name": "Alternative 'G",
+            "sampletext": "G – Generosity",
             "code": "ss02"
          },
          {
             "id": "3",
-            "name": "Alternative'R'",
-            "sampletext": "R – Rotonde",
+            "name": "Alternative 'M'",
+            "sampletext": "M – Merge",
             "code": "ss03"
          },
          {
