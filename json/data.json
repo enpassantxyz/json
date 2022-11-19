@@ -100,7 +100,7 @@
                   "isitalic": true,
                   "name": "Extra Bold Italic",
                   "weight": "800",
-                  "sampletext": "Up’s above and down's below. And limbo's in between. upside-down double whole right triangle notehead"
+                  "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
                },
                {
                   "id": "11",
@@ -215,7 +215,7 @@
                   "isitalic": true,
                   "name": "Extra Bold Italic",
                   "weight": "800",
-                  "sampletext": "Up’s above and down's below. And limbo's in between. upside-down double whole right triangle notehead"
+                  "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
                },
                {
                   "id": "11",
@@ -330,7 +330,7 @@
                   "isitalic": true,
                   "name": "Extra Bold Italic",
                   "weight": "800",
-                  "sampletext": "Up’s above and down's below. And limbo's in between. upside-down double whole right triangle notehead"
+                  "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
                },
                {
                   "id": "11",
@@ -816,14 +816,14 @@
             "familyname": "Avond",
             "name": "Semi Bold",
             "weight": "600",
-            "sampletext": "[2008.10.30][White Hikaru Nakamura][Black Maxime Vachier-Lagrave]"
+            "sampletext": "Tournée Générale — Rondje voor de hele zaak!"
          },
          {
             "id": "4",
             "familyname": "Avond",
             "name": "Bold",
             "weight": "700",
-            "sampletext": "Don’t Make Me Think, Steve Krug"
+            "sampletext": "Ober, ober, er zit een haar in mijn soep!"
          }
       ],
       "features": [
@@ -1186,14 +1186,14 @@
             "familyname": "Depeche",
             "name": "Line",
             "weight": "100",
-            "sampletext": "DRIIING! BAAANG! VROOOM! PANG! PANG! WAF! WAF! RRRR... RRRR..."
+            "sampletext": "DRIIING! BAAANG! VROOOM! PANG! PANG! WAF! WAF! KRRR... BRRR..."
          },
          {
             "id": "2",
             "familyname": "Depeche",
             "name": "Light",
             "weight": "300",
-            "sampletext": "Historians speak of such units as 10,000 horsemen, 25,000 chariots, 1200 regiments of foot soldiers with 1000 men to the regiment."
+            "sampletext": "Tarp ou tarpaulin (bâche) PE-110 blau Afdekzeil"
          },
          {
             "id": "3",
@@ -1221,7 +1221,7 @@
             "familyname": "Depeche",
             "name": "Bold",
             "weight": "700",
-            "sampletext": "Don’t Make Me Think, Steve Krug"
+            "sampletext": "Paradigm-shift Prodigy Horsepower Towerclock Harvester"
          }
       ],
       "features": [
