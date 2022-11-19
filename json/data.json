@@ -386,36 +386,30 @@
          },
          {
             "id": "6",
-            "name": "Sharp Set",
-            "sampletext": ",;‘’ – ‘Yes, No’",
-            "code": "ss06"
-         },
-         {
-            "id": "7",
             "name": "Tabular Numbers",
             "sampletext": "1234567890",
             "code": "tnum"
          },
          {
-            "id": "8",
+            "id": "7",
             "name": "Case Sensitive Forms",
             "sampletext": "H–[H]",
             "code": "case"
          },
          {
-            "id": "9",
+            "id": "8",
             "name": "Ligatures",
             "sampletext": "ff fl fi ffl ffi",
             "code": "liga"
          },
          {
-            "id": "10",
+            "id": "9",
             "name": "Discretionary Ligatures",
             "sampletext": "fh fk fb",
             "code": "dlig"
          },
          {
-            "id": "11",
+            "id": "10",
             "name": "Slashed Zero",
             "sampletext": "0",
             "code": "zero"
