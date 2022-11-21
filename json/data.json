@@ -1,5 +1,5 @@
-[
-   {
+{
+   "kabeljauw":{
       "id": "1",
       "name": "kabeljauw",
       "axis": [
@@ -786,7 +786,7 @@
          }
       ]
    },
-   {
+   "avond":{
       "id": "2",
       "name": "avond",
       "axis": "wght",
@@ -1170,7 +1170,7 @@
          }
       ]
    },
-   {
+   "depeche":{
       "id": "3",
       "name": "depeche",
       "axis": "wght",
@@ -1568,4 +1568,4 @@
          }
       ]
    }
-]
+}
