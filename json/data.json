@@ -357,25 +357,25 @@
          "features": [
             {
                "id": "1",
-               "name": "Alternative'a'",
+               "name": "Alternative 'a'",
                "sampletext": "a — Café",
                "code": "ss01"
             },
             {
                "id": "2",
-               "name": "Alternative'g'",
+               "name": "Alternative 'g'",
                "sampletext": "g – gemini",
                "code": "ss02"
             },
             {
                "id": "3",
-               "name": "Alternative'G'",
+               "name": "Alternative 'G'",
                "sampletext": "G – HEGEL",
                "code": "ss03"
             },
             {
                "id": "4",
-               "name": "Alternative'R'",
+               "name": "Alternative 'R'",
                "sampletext": "R – GRAPH",
                "code": "ss04"
             },
@@ -829,7 +829,7 @@
          "features": [
             {
                "id": "1",
-               "name": "Alternative'a'",
+               "name": "Alternative 'a'",
                "sampletext": "a — androgynous",
                "code": "ss01"
             },
@@ -841,7 +841,7 @@
             },
             {
                "id": "3",
-               "name": "Alternative'R'",
+               "name": "Alternative 'R'",
                "sampletext": "R – Rotonde",
                "code": "ss03"
             },
@@ -1227,7 +1227,7 @@
          "features": [
             {
                "id": "1",
-               "name": "Alternative'a'",
+               "name": "Alternative 'a'",
                "sampletext": "a — antique",
                "code": "ss01"
             },
