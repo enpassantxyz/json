@@ -399,18 +399,6 @@
             },
             {
                "id": "8",
-               "name": "Ligatures",
-               "sampletext": "ff fl fi ffl ffi",
-               "code": "liga"
-            },
-            {
-               "id": "9",
-               "name": "Discretionary Ligatures",
-               "sampletext": "fh fk fb",
-               "code": "dlig"
-            },
-            {
-               "id": "10",
                "name": "Slashed Zero",
                "sampletext": "0",
                "code": "zero"
@@ -1655,7 +1643,7 @@
                   {"unicode": "0394" , "name": "Delta" , "category": "Letter" , "subCategory": "None" , "script": "greek" , "codepoint": "Δ" },
                   {"unicode": "03A9" , "name": "Omega" , "category": "Letter" , "subCategory": "None" , "script": "greek" , "codepoint": "Ω" },
                   {"unicode": "0192" , "name": "florin" , "category": "Symbol" , "subCategory": "Currency" , "script": "latin" , "codepoint": "ƒ" },
-                  {"unicode": "1F30E" , "name": "earthGlobeAmericas" , "category": "Symbol" , "subCategory": "Emoji" , "script": "None" , "codepoint": "ἰE" },
+                  {"unicode": "1F310" , "name": "globeMeridians" , "category": "Symbol" , "subCategory": "Emoji" , "script": "None" , "codepoint": "ἱ0" },
                   {"unicode": "2600" , "name": "blackSunWithRays" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "☀" },
                   {"unicode": "260E" , "name": "telephoneblack" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "☎" },
                   {"unicode": "263E" , "name": "lastQuarterMoon" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "☾" },
