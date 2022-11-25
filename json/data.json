@@ -54,7 +54,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Text",
                      "isitalic": false,
-                     "name": "Semi Bold",
+                     "name": "Semibold",
                      "weight": "600",
                      "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8"
                   },
@@ -63,7 +63,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Text",
                      "isitalic": true,
-                     "name": "Semi Bold Italic",
+                     "name": "Semibold Italic",
                      "weight": "600",
                      "sampletext": "Earth Shattering Headline"
                   },
@@ -90,7 +90,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Text",
                      "isitalic": false,
-                     "name": "Extra Bold",
+                     "name": "Extrabold",
                      "weight": "800",
                      "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day"
                   },
@@ -99,7 +99,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Text",
                      "isitalic": true,
-                     "name": "Extra Bold Italic",
+                     "name": "Extrabold Italic",
                      "weight": "800",
                      "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
                   },
@@ -169,7 +169,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Standard",
                      "isitalic": false,
-                     "name": "Semi Bold",
+                     "name": "Semibold",
                      "weight": "600",
                      "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8"
                   },
@@ -178,7 +178,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Standard",
                      "isitalic": true,
-                     "name": "Semi Bold Italic",
+                     "name": "Semibold Italic",
                      "weight": "600",
                      "sampletext": "Earth Shattering Headline"
                   },
@@ -205,7 +205,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Standard",
                      "isitalic": false,
-                     "name": "Extra Bold",
+                     "name": "Extrabold",
                      "weight": "800",
                      "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day"
                   },
@@ -214,7 +214,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Standard",
                      "isitalic": true,
-                     "name": "Extra Bold Italic",
+                     "name": "Extrabold Italic",
                      "weight": "800",
                      "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
                   },
@@ -284,7 +284,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Display",
                      "isitalic": false,
-                     "name": "Semi Bold",
+                     "name": "Semibold",
                      "weight": "600",
                      "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8"
                   },
@@ -293,7 +293,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Display",
                      "isitalic": true,
-                     "name": "Semi Bold Italic",
+                     "name": "Semibold Italic",
                      "weight": "600",
                      "sampletext": "Earth Shattering Headline"
                   },
@@ -320,7 +320,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Display",
                      "isitalic": false,
-                     "name": "Extra Bold",
+                     "name": "Extrabold",
                      "weight": "800",
                      "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day"
                   },
@@ -329,7 +329,7 @@
                      "familyname": "Kabeljauw",
                      "subfamily": "Display",
                      "isitalic": true,
-                     "name": "Extra Bold Italic",
+                     "name": "Extrabold Italic",
                      "weight": "800",
                      "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
                   },
@@ -802,7 +802,7 @@
             {
                "id": "3",
                "familyname": "Avond",
-               "name": "Semi Bold",
+               "name": "Semibold",
                "weight": "600",
                "sampletext": "Tournée Générale — Rondje voor de hele zaak!"
             },
@@ -1261,7 +1261,7 @@
             {
                "id": "5",
                "familyname": "Depeche",
-               "name": "Semi Bold",
+               "name": "Semibold",
                "weight": "600",
                "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus"
             },
