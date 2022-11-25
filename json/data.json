@@ -1178,7 +1178,6 @@
                "category": "Symbols",
                "glyphs": [
                   {"unicode": "03B2" , "name": "beta" , "category": "Letter" , "subCategory": "None" , "script": "greek" , "codepoint": "β" },
-                  {"unicode": "1F3C3" , "name": "runner" , "category": "Symbol" , "subCategory": "Emoji" , "script": "None" , "codepoint": "Ἴ3" },
                   {"unicode": "F8FF" , "name": "apple" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "" },
                   {"unicode": "0040" , "name": "at" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "@" },
                   {"unicode": "0026" , "name": "ampersand" , "category": "Symbol" , "subCategory": "None" , "script": "None" , "codepoint": "&" },
