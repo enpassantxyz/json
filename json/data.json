@@ -1306,13 +1306,13 @@
             {
                "id": "6",
                "name": "Ligatures",
-               "sampletext": "ff fl fi ffl ffi",
+               "sampletext": "ff fi ffi",
                "code": "liga"
             },
             {
                "id": "7",
                "name": "Discretionary Ligatures",
-               "sampletext": "fh fk fb fj ft st ct",
+               "sampletext": "fl ffl",
                "code": "dlig"
             },
             {
