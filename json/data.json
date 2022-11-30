@@ -3,6 +3,11 @@
       {
          "id": "1",
          "name": "kabeljauw",
+         "designer": "Tom Van Keer",
+         "languages": "",
+         "version": "1.001",
+         "formats": "OTF, TTF (variable), WOFF, WOFF2",
+         "description": "Kabeljauw is a text letter developed for scanning experience on screen.",
          "axis": [
             "wght",
             "opsz"
@@ -404,11 +409,6 @@
                "code": "zero"
             }
          ],
-         "designer": "Tom Van Keer",
-         "languages": "",
-         "version": "1.0.0",
-         "formats": "OTF, TTF (variable), WOFF, WOFF2",
-         "description": "Kabeljauw is a text letter developed for scanning experience on screen.",
          "characterset": [
             {  "category": "Basic Latin",
                "glyphs": [
@@ -783,6 +783,11 @@
       {
          "id": "2",
          "name": "avond",
+         "designer": "Tom Van Keer",
+         "languages": "",
+         "version": "1.001",
+         "formats": "OTF, TTF (variable), WOFF, WOFF2",
+         "description": "Avond is an sharp and elegant display Serif family. Avond is the time of the day when people gather and social events happen, a moment worthy to remember.",
          "axis": "wght",
          "styles": [
             {
@@ -1227,6 +1232,11 @@
       ,{
          "id": "3",
          "name": "depeche",
+         "designer": "Tom Van Keer",
+         "languages": "",
+         "version": "1.001",
+         "formats": "OTF, TTF (variable), WOFF, WOFF2",
+         "description": "Depeche is a funky sans influenced by the linge clair drawing movement known from the likes of Tin Tin. Initially only a line version was created. Later in 2022 the family was extended with a range of different weights.",
          "axis": "wght",
          "styles": [
             {
