@@ -840,30 +840,24 @@
             },
             {
                "id": "4",
-               "name": "Tabular Numbers",
-               "sampletext": "1234567890",
-               "code": "tnum"
-            },
-            {
-               "id": "5",
                "name": "Case Sensitive Forms",
                "sampletext": "H–[H]",
                "code": "case"
             },
             {
-               "id": "6",
+               "id": "5",
                "name": "Ligatures",
                "sampletext": "ff fl fi ffl ffi",
                "code": "liga"
             },
             {
-               "id": "7",
+               "id": "6",
                "name": "Discretionary Ligatures",
                "sampletext": "fh fk fb fj ft st ct",
                "code": "dlig"
             },
             {
-               "id": "8",
+               "id": "7",
                "name": "Slashed Zero",
                "sampletext": "0",
                "code": "zero"
