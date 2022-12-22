@@ -4,7 +4,7 @@
       "name": "Dingen die ik denk terwijl ik staar naar de vissen. Dingen die ik vis terwijl ik staar naar het denken.",
       "url": "https://open.spotify.com/playlist/39uG2m0kWYGzm8Lw8weqLw?si=20fc949a4610483f",
       "id": "39uG2m0kWYGzm8Lw8weqLw",
-      "genres": "ambiant, hip-hop",
+      "genres": ["ambiant", "hip-hop"],
       "image": "",
       "story": "In the middle of the night, in the middle of the club and in the middle of our minds, you asked me Q: \"HOW HUNGRY ARE YOU?\" and I replied A: \"ASK ME WHAT I WANT TO DRINK\".   — A one-hour set for your house party."
     },
@@ -12,7 +12,7 @@
       "name": "Honey Bunch",
       "url": "https://open.spotify.com/playlist/3I7tlAkf6fOhFlBkj7D9YQ?si=ddf72a6396ad44a6",
       "id": "3I7tlAkf6fOhFlBkj7D9YQ",
-      "genres": "techno, house",
+      "genres": ["techno", "house"],
       "image": "",
       "story": "If I had 8 hours of sleep, every night, for 21 nights long? Then this must be the place of well rest and sleep. — A lullaby playlist for those adventurous ears that don't know how to fall asleep and for those who come home after the party and soothe away for some well-deserved rest."
     },
