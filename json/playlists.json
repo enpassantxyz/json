@@ -1,19 +1,25 @@
 {
   "results": [
     {
+      "name": "Movie Night Cancelled",
+      "url": "https://open.spotify.com/playlist/7yjDcpKoaP2zHPSSm8nIU3?si=1339aad8b9e14627",
+      "id": "",
+      "genre": "",
+      "image": "",
+      "story": "She is not crazy. She is unusual. —A Woman Under the Influence, John Cassavetes. I have not seen the movie but you saw that in the memo so what is my point exactly. I love leftovers make me happy.",
+      "track finds via": "",
+      "extra": ""
+    },
+    {
       "name": "Dingen die ik denk terwijl ik staar naar de vissen. Dingen die ik vis terwijl ik staar naar het denken.",
       "url": "https://open.spotify.com/playlist/39uG2m0kWYGzm8Lw8weqLw?si=20fc949a4610483f",
       "id": "39uG2m0kWYGzm8Lw8weqLw",
       "genre": [
-        "trance",
-        "electro",
-        "house",
+        "acid",
+        "synth-pop",
+        "electronic",
         "techno",
-        "down tempo",
-        "electro clash",
-        "acid house",
-        "hyper pop",
-        "french indie"
+        "trance"
       ],
       "image": "",
       "story": "In the middle of the night, in the middle of the club and in the middle of our minds, you asked me Q: \"HOW HUNGRY ARE YOU?\" and I replied A: \"ASK ME WHAT I WANT TO DRINK\".   — A one-hour set for your house party.",
@@ -50,7 +56,8 @@
         "electronic",
         "dance",
         "indie",
-        "pop"
+        "pop",
+        "synth"
       ],
       "image": "",
       "story": "Have u ever opened a drawer, an unpacked box and thought: 'Nah, not this? Not today.' Anxiety arrives from 0 to 100 & u feel completely overwhelmed/lost. This set is about closing that drawer & hiding that box again. —Fully unapologetically CHOOSING TO IGNORE & u are here for it. I respect that!",
@@ -189,7 +196,18 @@
       "name": "Mashita",
       "url": "https://open.spotify.com/playlist/56YxQ3mSLwP3XYNwNkhPzc?si=e6be2593bcb14fe9",
       "id": "",
-      "genre": [],
+      "genre": [
+        "jazz",
+        "house",
+        "electronic",
+        "new age",
+        "dance",
+        "indie",
+        "techno",
+        "acid",
+        "synth",
+        "instrumental"
+      ],
       "image": "",
       "story": "Liefdesbrief aan mezelf? Om zonder nadenken op te kunnen werken. Ik voelde dat de liefdesbrief aan Tom te specifiek was en ik wou iets meer eigen creëren",
       "track finds via": "",
@@ -199,7 +217,17 @@
       "name": "Va",
       "url": "https://open.spotify.com/playlist/5OwLThEwBZ7b6rgHVnC4KF?si=15497f409a684dd9",
       "id": "",
-      "genre": [],
+      "genre": [
+        "new wave",
+        "psychedelic",
+        "jazz",
+        "synth",
+        "electronic",
+        "pop",
+        "hip hop",
+        "minimal",
+        "instrumental"
+      ],
       "image": "",
       "story": "Liefdesbrief aan Tom, om nadenkend op te kunnen werken, met knipoogjes en verwijzingen.",
       "track finds via": "",
@@ -299,7 +327,19 @@
       "name": "Teeth",
       "url": "https://open.spotify.com/playlist/090VVw3Wa9smnkP5owMc0T?si=9fe393e9b4754b36",
       "id": "",
-      "genre": [],
+      "genre": [
+        "electronic",
+        "house",
+        "techno",
+        "new wave",
+        "synth",
+        "break",
+        "IDM",
+        "pop",
+        "dance",
+        "instrumental",
+        "trance"
+      ],
       "image": "",
       "story": "Ik denk dat ik mij verliefd begon te voelen naar de zomer toe. April en Mei waren heel lief voor mij (Maart en februari eigenlijk ook) en Juni begon ook zo mooi.",
       "track finds via": "track 5. @simonhendrickx",
@@ -309,7 +349,13 @@
       "name": "Guacamayo",
       "url": "https://open.spotify.com/playlist/6YlWHfWv2G0TlhPxLXQnX1?si=cd50cae1113f43a2",
       "id": "",
-      "genre": [],
+      "genre": [
+        "new age",
+        "folk",
+        "indie",
+        "jazz",
+        "rock"
+      ],
       "image": "",
       "story": "Ottokar's favoriete muziek, al weet ik dat niet zeker.",
       "track finds via": "track 7. @cornichon_antwerp",
