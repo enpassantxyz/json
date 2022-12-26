@@ -46,7 +46,12 @@
       "name": "A Song for Mary",
       "url": "https://open.spotify.com/playlist/1Gqqf64xMNnth3OG69JDE7?si=6586d564ffd145bb",
       "id": "",
-      "genre": "[electronic, dance, indie, pop]",
+      "genre": [
+        "electronic",
+        "dance",
+        "indie",
+        "pop"
+      ],
       "image": "",
       "story": "Have u ever opened a drawer, an unpacked box and thought: 'Nah, not this? Not today.' Anxiety arrives from 0 to 100 & u feel completely overwhelmed/lost. This set is about closing that drawer & hiding that box again. —Fully unapologetically CHOOSING TO IGNORE & u are here for it. I respect that!",
       "track finds via": "track 9. @robbestevens 15. @jaydanielwright",
@@ -56,7 +61,15 @@
       "name": "LA Hills Burn At The Peak Of Winter",
       "url": "https://open.spotify.com/playlist/1mzXDp8WYcRBG9naIRYTtZ?si=60a356baa77c4e4b",
       "id": "",
-      "genre": "[electronic, dance, new age, indie, pop, jazz, R&B]",
+      "genre": [
+        "electronic",
+        "dance",
+        "new age",
+        "indie",
+        "pop",
+        "jazz",
+        "R&B"
+      ],
       "image": "",
       "story": "Feeling sick. Winter is here and its time to join its pace. Time to set back, content ourselves with things as they are. Allow for darkness to arrive and to cause us no discontent. Allow to resign ourselves to it as inevitable. —Winter depression BUT the 2nd hour is about stop feeling sorry 4 urself.",
       "track finds via": "track 5. @simonhendrickx 6. @juliojuliooooo 8. @shlagga 9. @cornichon_antwerp 22. @robbestevens",
@@ -66,7 +79,15 @@
       "name": "Tusi En El Pussy",
       "url": "https://open.spotify.com/playlist/1RFMWJXcz7dCrNcCyuXhi3?si=735afef88450484c",
       "id": "",
-      "genre": "[indie, electronic, jazz, urbano, instrumental, dance, pop]",
+      "genre": [
+        "indie",
+        "electronic",
+        "jazz",
+        "urbano",
+        "instrumental",
+        "dance",
+        "pop"
+      ],
       "image": "",
       "story": "s' Nachts thuis komen na een enge film en alles behalve willen slapen, tweede uur is het uitbollen van nog vol met feest, angst, stress energie zitten die er nog uit moet.",
       "track finds via": "track 1. @beau.karssen 2. @robbestevens 6. @hetbos 11. @hassanrahim 15. @robbestevens 19. @cornichon_antwerp 20. @? 23. @tijmen_tal 24. @laikaplanchenault",
