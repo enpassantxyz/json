@@ -307,7 +307,15 @@
       "name": "Ittus",
       "url": "https://open.spotify.com/playlist/7x843fPTYWVUTARoX3SB01?si=27172e69754d4185",
       "id": "",
-      "genre": "[\"electronic\", dance\", \"synth\", \"house\", \"deep house\", \"funk\", \"folk\"]",
+      "genre": [
+        "electronic",
+        "dance",
+        "synth",
+        "house",
+        "deep house",
+        "funk",
+        "folk"
+      ],
       "image": "",
       "story": "Ik denk dat ik mijn best wou doen om stipt aan één uur te geraken, zo weet ik dat ik een verhaal heb proberen te vertellen. Volgens mij droomde ik weg van mijn eigen plek, mijn eigen benen, mijn eigen zeggen en denken. En niet langer luisteren naar wat er verwacht wordt.",
       "track finds via": "track 5. @cornichon_antwerp 11. @fig.label",
