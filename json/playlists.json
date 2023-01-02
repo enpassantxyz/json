@@ -176,11 +176,11 @@
         "breakbeat",
         "jazz",
         "folk",
+        "synth",
         "house",
         "dance",
-        "classical",
-        "synth",
-        "electronic"
+        "electronic",
+        "classical"
       ],
       "image": "",
       "story": "Ruzie maken met je geliefde, zo pijnlijk dat je voelt dat het iets heeft verandert.",
@@ -210,7 +210,16 @@
       "name": "Mio Signore",
       "url": "https://open.spotify.com/playlist/2bQMjNi18P2ddIHLlVYZoM?si=2b7ed2e128294832",
       "id": "",
-      "genre": "[\"new age\", \"electronic\", \"synth\", \"psychadelic\", \"bass\", \"rock\", ''folk\", \"house\"]",
+      "genre": [
+        "new age",
+        "electronic",
+        "synth",
+        "psychadelic",
+        "bass",
+        "rock",
+        "folk",
+        "house"
+      ],
       "image": "",
       "story": "Ongeveer de eerste playlist onder een halfuur en dicht achter elkaar. Ipv een uitbarsting elke +/- twee weken.",
       "track finds via": "",
