@@ -25,7 +25,8 @@
                      "name": "Regular",
                      "isitalic": false,
                      "weight": "400",
-                     "sampletext": "Treble, Bass, Alto, Tenor — DO RE MI FA SOL LA SI"
+                     "sampletext": "Treble, Bass, Alto, Tenor — DO RE MI FA SOL LA SI",
+                     "shortsample": "Cauliflower"
                   },
                   {
                      "id": "2",
@@ -34,7 +35,8 @@
                      "name": "Regular Italic",
                      "isitalic": true,
                      "weight": "400",
-                     "sampletext": "Galdhøpiggen, Åland, Bogusław"
+                     "sampletext": "Galdhøpiggen, Åland, Bogusław",
+                     "shortsample": "Iceberg"
                   },
                   {
                      "id": "3",
@@ -43,7 +45,8 @@
                      "isitalic": false,
                      "name": "Medium",
                      "weight": "500",
-                     "sampletext": "Uncle has devoted his life in retirement to two things: long term chairs, and passing financial literacy to the masses via catchy, innovative rhyme-schemes paired with contemporary hip hop beats!"
+                     "sampletext": "Uncle has devoted his life in retirement to two things: long term chairs, and passing financial literacy to the masses via catchy, innovative rhyme-schemes paired with contemporary hip hop beats!",
+                     "shortsample": "Tornado"
                   },
                   {
                      "id": "4",
@@ -52,7 +55,8 @@
                      "isitalic": true,
                      "name": "Medium Italic",
                      "weight": "500",
-                     "sampletext": "Good Morning Grandmaster"
+                     "sampletext": "Good Morning Grandmaster",
+                     "shortsample": "Xylophone"
                   },
                   {
                      "id": "5",
@@ -61,7 +65,8 @@
                      "isitalic": false,
                      "name": "Semibold",
                      "weight": "600",
-                     "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8"
+                     "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8",
+                     "shortsample": "Automobile"
                   },
                   {
                      "id": "6",
@@ -70,7 +75,8 @@
                      "isitalic": true,
                      "name": "Semibold Italic",
                      "weight": "600",
-                     "sampletext": "Earth Shattering Headline"
+                     "sampletext": "Earth Shattering Headline",
+                     "shortsample": "Refrigirator"
                   },
                   {
                      "id": "7",
@@ -79,7 +85,8 @@
                      "isitalic": false,
                      "name": "Bold",
                      "weight": "700",
-                     "sampletext": "New Super Energy Booster with Ultimate Power Formula"
+                     "sampletext": "New Super Energy Booster with Ultimate Power Formula",
+                     "shortsample": "Sunglasses"
                   },
                   {
                      "id": "8",
@@ -88,7 +95,8 @@
                      "isitalic": true,
                      "name": "Bold Italic",
                      "weight": "700",
-                     "sampletext": "Sarcofagen & Salopetten of Kabeljauw & Bungalow"
+                     "sampletext": "Sarcofagen & Salopetten of Kabeljauw & Bungalow",
+                     "shortsample": "Flamingo"
                   },
                   {
                      "id": "9",
@@ -97,7 +105,8 @@
                      "isitalic": false,
                      "name": "Extrabold",
                      "weight": "800",
-                     "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day"
+                     "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day",
+                     "shortsample": "Fireplace"
                   },
                   {
                      "id": "10",
@@ -106,7 +115,8 @@
                      "isitalic": true,
                      "name": "Extrabold Italic",
                      "weight": "800",
-                     "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
+                     "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead",
+                     "shortsample": "Bungalow"
                   },
                   {
                      "id": "11",
@@ -115,7 +125,8 @@
                      "isitalic": false,
                      "name": "Heavy",
                      "weight": "900",
-                     "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry"
+                     "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry",
+                     "shortsample": "Penthouse"
                   },
                   {
                      "id": "12",
@@ -124,7 +135,8 @@
                      "isitalic": true,
                      "name": "Heavy Italic",
                      "weight": "900",
-                     "sampletext": "Mom’s Spaghetti recipe: 2 tablespoons extra virgin olive oil, 1 large onion 2 minced garlic cloves, 1 1⁄2 lbs ground beef, 1 can diced tomatoes, 2 (6 ounce) cans tomato paste, 2 cups water, 1⁄4 cup dried parsley, 2 teaspoons italian seasoning, 1 teaspoon salt, 1 teaspoon pepper, 2 tablespoons sugar"
+                     "sampletext": "Mom’s Spaghetti recipe: 2 tablespoons extra virgin olive oil, 1 large onion 2 minced garlic cloves, 1 1⁄2 lbs ground beef, 1 can diced tomatoes, 2 (6 ounce) cans tomato paste, 2 cups water, 1⁄4 cup dried parsley, 2 teaspoons italian seasoning, 1 teaspoon salt, 1 teaspoon pepper, 2 tablespoons sugar",
+                     "shortsample": "Daffodil"
                   }
                ]
             },
@@ -140,7 +152,8 @@
                      "isitalic": false,
                      "name": "Regular",
                      "weight": "400",
-                     "sampletext": "Treble, Bass, Alto, Tenor — DO RE MI FA SOL LA SI"
+                     "sampletext": "Treble, Bass, Alto, Tenor — DO RE MI FA SOL LA SI",
+                     "shortsample": "Mansion"
                   },
                   {
                      "id": "2",
@@ -149,7 +162,8 @@
                      "name": "Regular Italic",
                      "isitalic": true,
                      "weight": "400",
-                     "sampletext": "Galdhøpiggen, Åland, Bogusław"
+                     "sampletext": "Galdhøpiggen, Åland, Bogusław",
+                     "shortsample": "Walnut"
                   },
                   {
                      "id": "3",
@@ -158,7 +172,8 @@
                      "isitalic": false,
                      "name": "Medium",
                      "weight": "500",
-                     "sampletext": "Uncle has devoted his life in retirement to two things: long term chairs, and passing financial literacy to the masses via catchy, innovative rhyme-schemes paired with contemporary hip hop beats. Some would argue that Uncle is a pioneer, fathering (or Uncle-ing) his own sub genre that resonates deeply with Wall Street professionals and hip hop heads alike. Uncle often speaks of positivity, respect, blessings and a profound love for God. When confronted with adversity that challenges his deep-rooted foundation of positivity, Uncle has one answer: ima do it anywayyy!"
+                     "sampletext": "Uncle has devoted his life in retirement to two things: long term chairs, and passing financial literacy to the masses via catchy, innovative rhyme-schemes paired with contemporary hip hop beats. Some would argue that Uncle is a pioneer, fathering (or Uncle-ing) his own sub genre that resonates deeply with Wall Street professionals and hip hop heads alike. Uncle often speaks of positivity, respect, blessings and a profound love for God. When confronted with adversity that challenges his deep-rooted foundation of positivity, Uncle has one answer: ima do it anywayyy!",
+                     "shortsample": "Umbrella"
                   },
                   {
                      "id": "4",
@@ -167,7 +182,8 @@
                      "name": "Medium Italic",
                      "isitalic": true,
                      "weight": "500",
-                     "sampletext": "Good Morning Grandmaster"
+                     "sampletext": "Good Morning Grandmaster",
+                     "shortsample": "Ice Cream"
                   },
                   {
                      "id": "5",
@@ -176,7 +192,8 @@
                      "isitalic": false,
                      "name": "Semibold",
                      "weight": "600",
-                     "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8"
+                     "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8",
+                     "shortsample": "Television"
                   },
                   {
                      "id": "6",
@@ -185,7 +202,9 @@
                      "isitalic": true,
                      "name": "Semibold Italic",
                      "weight": "600",
-                     "sampletext": "Earth Shattering Headline"
+                     "sampletext": "Earth Shattering Headline",
+                     "shortsample": "Elephant"
+                     
                   },
                   {
                      "id": "7",
@@ -194,7 +213,8 @@
                      "isitalic": false,
                      "name": "Bold",
                      "weight": "700",
-                     "sampletext": "New Super Energy Booster with Ultimate Power Formula"
+                     "sampletext": "New Super Energy Booster with Ultimate Power Formula",
+                     "shortsample": "Rhubarb"
                   },
                   {
                      "id": "8",
@@ -203,7 +223,8 @@
                      "isitalic": true,
                      "name": "Bold Italic",
                      "weight": "700",
-                     "sampletext": "Sarcofagen & Salopetten of Kabeljauw & Bungalow"
+                     "sampletext": "Sarcofagen & Salopetten of Kabeljauw & Bungalow",
+                     "shortsample": "Mandarin"
                   },
                   {
                      "id": "9",
@@ -212,7 +233,8 @@
                      "isitalic": false,
                      "name": "Extrabold",
                      "weight": "800",
-                     "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day"
+                     "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day",
+                     "shortsample": "Violin"
                   },
                   {
                      "id": "10",
@@ -221,7 +243,8 @@
                      "isitalic": true,
                      "name": "Extrabold Italic",
                      "weight": "800",
-                     "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
+                     "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead",
+                     "shortsample": "Quilt"
                   },
                   {
                      "id": "11",
@@ -230,7 +253,8 @@
                      "isitalic": false,
                      "name": "Heavy",
                      "weight": "900",
-                     "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry"
+                     "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry",
+                     "shortsample": "Mousepad"
                   },
                   {
                      "id": "12",
@@ -239,7 +263,8 @@
                      "isitalic": true,
                      "name": "Heavy Italic",
                      "weight": "900",
-                     "sampletext": "Mom’s Spaghetti recipe: 2 tablespoons extra virgin olive oil, 1 large onion 2 minced garlic cloves, 1 1⁄2 lbs ground beef, 1 can diced tomatoes, 2 (6 ounce) cans tomato paste, 2 cups water, 1⁄4 cup dried parsley, 2 teaspoons italian seasoning, 1 teaspoon salt, 1 teaspoon pepper, 2 tablespoons sugar"
+                     "sampletext": "Mom’s Spaghetti recipe: 2 tablespoons extra virgin olive oil, 1 large onion 2 minced garlic cloves, 1 1⁄2 lbs ground beef, 1 can diced tomatoes, 2 (6 ounce) cans tomato paste, 2 cups water, 1⁄4 cup dried parsley, 2 teaspoons italian seasoning, 1 teaspoon salt, 1 teaspoon pepper, 2 tablespoons sugar",
+                     "shortsample": "Pangasius"
                   }
                ]
             },
@@ -264,7 +289,8 @@
                      "isitalic": true,
                      "name": "Regular Italic",
                      "weight": "400",
-                     "sampletext": "Galdhøpiggen, Åland, Bogusław"
+                     "sampletext": "Galdhøpiggen, Åland, Bogusław",
+                     "shortsample": "Zucchini"
                   },
                   {
                      "id": "3",
@@ -273,7 +299,8 @@
                      "isitalic": false,
                      "name": "Medium",
                      "weight": "500",
-                     "sampletext": "Uncle has devoted his life in retirement to two things: long term chairs, and passing financial literacy to the masses via catchy, innovative rhyme-schemes paired with contemporary hip hop beats. Some would argue that Uncle is a pioneer, fathering (or Uncle-ing) his own sub genre that resonates deeply with Wall Street professionals and hip hop heads alike. Uncle often speaks of positivity, respect, blessings and a profound love for God. When confronted with adversity that challenges his deep-rooted foundation of positivity, Uncle has one answer: ima do it anywayyy!"
+                     "sampletext": "Uncle has devoted his life in retirement to two things: long term chairs, and passing financial literacy to the masses via catchy, innovative rhyme-schemes paired with contemporary hip hop beats. Some would argue that Uncle is a pioneer, fathering (or Uncle-ing) his own sub genre that resonates deeply with Wall Street professionals and hip hop heads alike. Uncle often speaks of positivity, respect, blessings and a profound love for God. When confronted with adversity that challenges his deep-rooted foundation of positivity, Uncle has one answer: ima do it anywayyy!",
+                     "shortsample": "Tambourine"
                   },
                   {
                      "id": "4",
@@ -282,7 +309,8 @@
                      "isitalic": true,
                      "name": "Medium Italic",
                      "weight": "500",
-                     "sampletext": "Good Morning Grandmaster"
+                     "sampletext": "Good Morning Grandmaster",
+                     "shortsample": "Clementine"
                   },
                   {
                      "id": "5",
@@ -291,7 +319,8 @@
                      "isitalic": false,
                      "name": "Semibold",
                      "weight": "600",
-                     "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8"
+                     "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8",
+                     "shortsample": "Balcony"
                   },
                   {
                      "id": "6",
@@ -300,7 +329,8 @@
                      "isitalic": true,
                      "name": "Semibold Italic",
                      "weight": "600",
-                     "sampletext": "Earth Shattering Headline"
+                     "sampletext": "Earth Shattering Headline",
+                     "shortsample": "Biscuit"
                   },
                   {
                      "id": "7",
@@ -309,7 +339,8 @@
                      "isitalic": false,
                      "name": "Bold",
                      "weight": "700",
-                     "sampletext": "New Super Energy Booster with Ultimate Power Formula"
+                     "sampletext": "New Super Energy Booster with Ultimate Power Formula",
+                     "shortsample": "Omelette"
                   },
                   {
                      "id": "8",
@@ -318,7 +349,8 @@
                      "isitalic": true,
                      "name": "Bold Italic",
                      "weight": "700",
-                     "sampletext": "Sarcofagen & Salopetten of Kabeljauw & Bungalow"
+                     "sampletext": "Sarcofagen & Salopetten of Kabeljauw & Bungalow",
+                     "shortsample": "Fuchsia"
                   },
                   {
                      "id": "9",
@@ -327,7 +359,8 @@
                      "isitalic": false,
                      "name": "Extrabold",
                      "weight": "800",
-                     "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day"
+                     "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day",
+                     "shortsample": "Tamagotchi"
                   },
                   {
                      "id": "10",
@@ -336,7 +369,8 @@
                      "isitalic": true,
                      "name": "Extrabold Italic",
                      "weight": "800",
-                     "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead"
+                     "sampletext": "Up’s above and down’s below. And limbo's in between. upside-down double whole right triangle notehead",
+                     "shortsample": "Rhino"
                   },
                   {
                      "id": "11",
@@ -345,7 +379,8 @@
                      "subfamily": "Display",
                      "name": "Heavy",
                      "weight": "900",
-                     "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry"
+                     "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry",
+                     "shortsample": "Omelette"
                   },
                   {
                      "id": "12",
@@ -354,7 +389,8 @@
                      "isitalic": true,
                      "name": "Heavy Italic",
                      "weight": "900",
-                     "sampletext": "Mom’s Spaghetti recipe: 2 tablespoons extra virgin olive oil, 1 large onion 2 minced garlic cloves, 1 1⁄2 lbs ground beef, 1 can diced tomatoes, 2 (6 ounce) cans tomato paste, 2 cups water, 1⁄4 cup dried parsley, 2 teaspoons italian seasoning, 1 teaspoon salt, 1 teaspoon pepper, 2 tablespoons sugar"
+                     "sampletext": "Mom’s Spaghetti recipe: 2 tablespoons extra virgin olive oil, 1 large onion 2 minced garlic cloves, 1 1⁄2 lbs ground beef, 1 can diced tomatoes, 2 (6 ounce) cans tomato paste, 2 cups water, 1⁄4 cup dried parsley, 2 teaspoons italian seasoning, 1 teaspoon salt, 1 teaspoon pepper, 2 tablespoons sugar",
+                     "shortsample": "Cellphone"
                   }
                ]
             }
@@ -392,7 +428,7 @@
             },
             {
                "id": "6",
-               "name": "Tabular lining Numbers (monospace)",
+               "name": "Tabular Lining/Monospace Numbers",
                "sampletext": "1234567890",
                "code": "tnum"
             },
@@ -795,28 +831,32 @@
                "familyname": "Avond",
                "name": "Light",
                "weight": "300",
-               "sampletext": "Levensechte slang geweldig voor themafeest of iemand te laten schrikken"
+               "sampletext": "Levensechte slang geweldig voor themafeest of iemand te laten schrikken",
+               "shortsample": "Cave"
             },
             {
                "id": "2",
                "familyname": "Avond",
                "name": "Regular",
                "weight": "400",
-               "sampletext": "If you can’t eat them or yell them, foreign words don’t often stick around"
+               "sampletext": "If you can’t eat them or yell them, foreign words don’t often stick around",
+               "shortsample": "Pantoffels"
             },
             {
                "id": "3",
                "familyname": "Avond",
                "name": "Semibold",
                "weight": "600",
-               "sampletext": "Tournée Générale — Rondje voor de hele zaak!"
+               "sampletext": "Tournée Générale — Rondje voor de hele zaak!",
+               "shortsample": "Morning"
             },
             {
                "id": "4",
                "familyname": "Avond",
                "name": "Bold",
                "weight": "700",
-               "sampletext": "Ober, ober, er zit een haar in mijn soep!"
+               "sampletext": "Ober, ober, er zit een haar in mijn soep!",
+               "shortsample": "Jalapeño"
             }
          ],
          "features": [
@@ -1238,42 +1278,48 @@
                "familyname": "Depeche",
                "name": "Line",
                "weight": "100",
-               "sampletext": "DRIIING! BAAANG! VROOOM! PANG! PANG! WAF! WAF! KRRR... BRRR..."
+               "sampletext": "DRIIING! BAAANG! VROOOM! PANG! PANG! WAF! WAF! KRRR... BRRR...",
+               "shortsample": "Toaster"
             },
             {
                "id": "2",
                "familyname": "Depeche",
                "name": "Light",
                "weight": "300",
-               "sampletext": "Tarp ou tarpaulin (bâche) PE-110 blau Afdekzeil"
+               "sampletext": "Tarp ou tarpaulin (bâche) PE-110 blau Afdekzeil",
+               "shortsample": "Spaceship"
             },
             {
                "id": "3",
                "familyname": "Depeche",
                "name": "Regular",
                "weight": "400",
-               "sampletext": "TWINSCAN NXE:3600D, TWINSCAN NXE:3400C, PAS 5500-1150C, PAS 5500-8TFH-A, PAS 5500-850C, PAS 5500-750F, PAS 5500-450F, PAS 5500-350C, PAS 5500-275D, PAS 5500-100D"
+               "sampletext": "TWINSCAN NXE:3600D, TWINSCAN NXE:3400C, PAS 5500-1150C, PAS 5500-8TFH-A, PAS 5500-850C, PAS 5500-750F, PAS 5500-450F, PAS 5500-350C, PAS 5500-275D, PAS 5500-100D",
+               "shortsample": "Kangaroo"
             },
             {
                "id": "4",
                "familyname": "Depeche",
                "name": "Medium",
                "weight": "500",
-               "sampletext": "PALM & TAROT Card Readings, Will help you on all affairs in life, Special Reading $5, 1433 2nd AVE, One Flight Up, 288-7026 "
+               "sampletext": "PALM & TAROT Card Readings, Will help you on all affairs in life, Special Reading $5, 1433 2nd AVE, One Flight Up, 288-7026 ",
+               "shortsample": "Equipment"
             },
             {
                "id": "5",
                "familyname": "Depeche",
                "name": "Semibold",
                "weight": "600",
-               "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus"
+               "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus",
+               "shortsample": "Fenêtre"
             },
             {
                "id": "6",
                "familyname": "Depeche",
                "name": "Bold",
                "weight": "700",
-               "sampletext": "‘Ball in socket’ by H. Busquet"
+               "sampletext": "‘Ball in socket’ by H. Busquet",
+               "shortsample": "Fungible"
             }
          ],
          "features": [
@@ -1297,7 +1343,7 @@
             },
             {
                "id": "4",
-               "name": "Tabular Numbers",
+               "name": "Tabular Lining/Monospace Numbers",
                "sampletext": "1234567890",
                "code": "tnum"
             },
