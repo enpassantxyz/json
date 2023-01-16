@@ -280,7 +280,8 @@
                      "isitalic": false,
                      "name": "Regular",
                      "weight": "400",
-                     "sampletext": "Treble, Bass, Alto, Tenor — DO RE MI FA SOL LA SI"
+                     "sampletext": "Treble, Bass, Alto, Tenor — DO RE MI FA SOL LA SI",
+                     "shortsample": "Gemini"
                   },
                   {
                      "id": "2",
