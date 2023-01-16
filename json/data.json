@@ -76,7 +76,7 @@
                      "name": "Semibold Italic",
                      "weight": "600",
                      "sampletext": "Earth Shattering Headline",
-                     "shortsample": "Refrigirator"
+                     "shortsample": "Zwaan"
                   },
                   {
                      "id": "7",
@@ -183,7 +183,7 @@
                      "isitalic": true,
                      "weight": "500",
                      "sampletext": "Good Morning Grandmaster",
-                     "shortsample": "Ice Cream"
+                     "shortsample": "Mantra"
                   },
                   {
                      "id": "5",
@@ -193,7 +193,7 @@
                      "name": "Semibold",
                      "weight": "600",
                      "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8",
-                     "shortsample": "Television"
+                     "shortsample": "Intermezzo"
                   },
                   {
                      "id": "6",
@@ -203,7 +203,7 @@
                      "name": "Semibold Italic",
                      "weight": "600",
                      "sampletext": "Earth Shattering Headline",
-                     "shortsample": "Elephant"
+                     "shortsample": "Dyno"
                      
                   },
                   {
@@ -254,7 +254,7 @@
                      "name": "Heavy",
                      "weight": "900",
                      "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry",
-                     "shortsample": "Mousepad"
+                     "shortsample": "Druiventros"
                   },
                   {
                      "id": "12",
@@ -381,7 +381,7 @@
                      "name": "Heavy",
                      "weight": "900",
                      "sampletext": "Oxford, Ipswich, Hertford, Chelmsford, St Albans, Maidstone, Chatham, Rochester, Margate, Wells, Ramsgate, Turnbridge Wells, Dover, Sandwich, Hastings, Dover, Eastbourne, Kingston Upon Thames, Brighton, Lewes, Guildford, Chichester, Croydon, Canterbury, Reading, Southhampton, Kesington, Coventry",
-                     "shortsample": "Omelette"
+                     "shortsample": "Gorgonzola"
                   },
                   {
                      "id": "12",
@@ -833,7 +833,7 @@
                "name": "Light",
                "weight": "300",
                "sampletext": "Levensechte slang geweldig voor themafeest of iemand te laten schrikken",
-               "shortsample": "Cave"
+               "shortsample": "Gomashio"
             },
             {
                "id": "2",
@@ -849,7 +849,7 @@
                "name": "Semibold",
                "weight": "600",
                "sampletext": "Tournée Générale — Rondje voor de hele zaak!",
-               "shortsample": "Morning"
+               "shortsample": "Crux"
             },
             {
                "id": "4",
