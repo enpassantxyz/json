@@ -1743,6 +1743,92 @@
                ]
             }
          ]
+      },
+      {
+         "id": "4",
+         "name": "kimchi",
+         "designer": "Tom Van Keer",
+         "languages": "",
+         "version": "1.001",
+         "formats": "OTF, TTF (variable), WOFF, WOFF2",
+         "description": "Kimchi",
+         "axis": "wdth",
+         "styles": [
+            {
+               "id": "1",
+               "familyname": "Kimchi",
+               "name": "Compressed",
+               "width": "0",
+               "sampletext": "NUTRIENTS",
+               "shortsample": "POTASIUM"
+            },
+            {
+               "id": "2",
+               "familyname": "Kimchi",
+               "name": "Condensed",
+               "width": "25",
+               "sampletext": "POTATO MASH",
+               "shortsample": "DISHES"
+            },
+            {
+               "id": "3",
+               "familyname": "Kimchi",
+               "name": "Normal",
+               "width": "50",
+               "sampletext": "SIMULTANEOUSLY",
+               "shortsample": "SOMEHOW"
+            },
+            {
+               "id": "4",
+               "familyname": "Kimchi",
+               "name": "Extended",
+               "width": "75",
+               "sampletext": "PANORAMA",
+               "shortsample": "PLENTY"
+            },
+            {
+               "id": "5",
+               "familyname": "Kimchi",
+               "name": "Expanded",
+               "width": "100",
+               "sampletext": "LAWN",
+               "shortsample": "APPLES"
+            }
+         ],
+         "features": [
+         ],
+         "characterset": [
+            {  "category": "Basic Latin",
+               "glyphs": [
+               {"unicode": "0041" , "name": "A" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "A" },
+               {"unicode": "0042" , "name": "B" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "B" },
+               {"unicode": "0043" , "name": "C" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "C" },
+               {"unicode": "0044" , "name": "D" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "D" },
+               {"unicode": "0045" , "name": "E" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "E" },
+               {"unicode": "0046" , "name": "F" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "F" },
+               {"unicode": "0047" , "name": "G" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "G" },
+               {"unicode": "0048" , "name": "H" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "H" },
+               {"unicode": "0049" , "name": "I" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "I" },
+               {"unicode": "004A" , "name": "J" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "J" },
+               {"unicode": "004B" , "name": "K" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "K" },
+               {"unicode": "004C" , "name": "L" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "L" },
+               {"unicode": "004D" , "name": "M" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "M" },
+               {"unicode": "004E" , "name": "N" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "N" },
+               {"unicode": "004F" , "name": "O" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "O" },
+               {"unicode": "0050" , "name": "P" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "P" },
+               {"unicode": "0051" , "name": "Q" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Q" },
+               {"unicode": "0052" , "name": "R" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "R" },
+               {"unicode": "0053" , "name": "S" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "S" },
+               {"unicode": "0054" , "name": "T" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "T" },
+               {"unicode": "0055" , "name": "U" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "U" },
+               {"unicode": "0056" , "name": "V" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "V" },
+               {"unicode": "0057" , "name": "W" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "W" },
+               {"unicode": "0058" , "name": "X" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "X" },
+               {"unicode": "0059" , "name": "Y" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Y" },
+               {"unicode": "005A" , "name": "Z" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "Z" }
+               ]
+            }
+         ]
       }
       
    ]
