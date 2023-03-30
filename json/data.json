@@ -1760,7 +1760,7 @@
                "name": "Compressed",
                "width": "0",
                "sampletext": "AFTER MONTHS OF HARD WORK AND DEDICATION, THE TEAM FINALLY LAUNCHED THEIR NEW APP, AND THEY COULDN'T BE HAPPIER WITH THE RESULTS.",
-               "shortsample": "POTASIUM"
+               "shortsample": "ATOMATA"
             },
             {
                "id": "2",
@@ -1768,15 +1768,15 @@
                "name": "Condensed",
                "width": "25",
                "sampletext": "THE MOUNTAINS REFLECTED IN THE CRYSTAL CLEAR LAKES, CREATING A STUNNINGLY BEAUTIFUL SCENE",
-               "shortsample": "DISHES"
+               "shortsample": "BILATERAL"
             },
             {
                "id": "3",
                "familyname": "Kimchi",
                "name": "Normal",
                "width": "50",
-               "sampletext": "A VIEW OF FROM SNOW-CAPPED PEAKS AS FAR AS THE EYE COULD SEE.",
-               "shortsample": "SOMEHOW"
+               "sampletext": "A VIEW OF SNOW-CAPPED PEAKS AS FAR AS THE EYE COULD SEE.",
+               "shortsample": "ZEST"
             },
             {
                "id": "4",
@@ -1784,7 +1784,7 @@
                "name": "Extended",
                "width": "75",
                "sampletext": "THE PANORAMA FROM THE TOP OF THE MOUNTAIN WAS BREATHTAKING",
-               "shortsample": "PLENTY"
+               "shortsample": "PLURAL"
             },
             {
                "id": "5",
@@ -1792,7 +1792,7 @@
                "name": "Expanded",
                "width": "100",
                "sampletext": "BUMBLEBEES FLEW FROM FLOWER TO FLOWER ACROSS THE LUSH GREEN LAWN",
-               "shortsample": "APPLES"
+               "shortsample": "RUMOR"
             }
          ],
          "features": [
