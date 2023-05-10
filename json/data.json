@@ -36,7 +36,7 @@
                      "isitalic": true,
                      "weight": "400",
                      "sampletext": "Galdhøpiggen, Åland, Bogusław",
-                     "shortsample": "Iceberg"
+                     "shortsample": "Hvidvask"
                   },
                   {
                      "id": "3",
@@ -56,7 +56,7 @@
                      "name": "Medium Italic",
                      "weight": "500",
                      "sampletext": "Good Morning Grandmaster",
-                     "shortsample": "Xylophone"
+                     "shortsample": "Attālināts"
                   },
                   {
                      "id": "5",
@@ -66,7 +66,7 @@
                      "name": "Semibold",
                      "weight": "600",
                      "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8",
-                     "shortsample": "Automobile"
+                     "shortsample": "Polpetto"
                   },
                   {
                      "id": "6",
@@ -106,7 +106,7 @@
                      "name": "Extrabold",
                      "weight": "800",
                      "sampletext": "TTF Gas 123.35 EUR/MWh ↑9.90% Day",
-                     "shortsample": "Fireplace"
+                     "shortsample": "Saudade"
                   },
                   {
                      "id": "10",
@@ -311,7 +311,7 @@
                      "name": "Medium Italic",
                      "weight": "500",
                      "sampletext": "Good Morning Grandmaster",
-                     "shortsample": "Clementine"
+                     "shortsample": "Postfaktisch"
                   },
                   {
                      "id": "5",
@@ -391,7 +391,7 @@
                      "name": "Heavy Italic",
                      "weight": "900",
                      "sampletext": "Mom’s Spaghetti recipe: 2 tablespoons extra virgin olive oil, 1 large onion 2 minced garlic cloves, 1 1⁄2 lbs ground beef, 1 can diced tomatoes, 2 (6 ounce) cans tomato paste, 2 cups water, 1⁄4 cup dried parsley, 2 teaspoons italian seasoning, 1 teaspoon salt, 1 teaspoon pepper, 2 tablespoons sugar",
-                     "shortsample": "Cellphone"
+                     "shortsample": "Clementine"
                   }
                ]
             }
