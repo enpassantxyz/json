@@ -1905,40 +1905,40 @@
                "familyname": "Dak",
                "name": "Regular",
                "width": "400",
-               "sampletext": "AFTER MONTHS OF HARD WORK AND DEDICATION, THE TEAM FINALLY LAUNCHED THEIR NEW APP, AND THEY COULDN'T BE HAPPIER WITH THE RESULTS.",
-               "shortsample": "AUTOMATON"
+               "sampletext": "Repairing themselves and adapting to changing environmental conditions for maximum durability.",
+               "shortsample": "Artisans"
             },
             {
                "id": "2",
                "familyname": "Dak",
                "name": "Screen",
                "width": "475",
-               "sampletext": "THE MOUNTAINS REFLECTED IN THE CRYSTAL CLEAR LAKES, CREATING A STUNNINGLY BEAUTIFUL SCENE",
-               "shortsample": "BILATERAL"
+               "sampletext": "Symbols of cultural identity, with distinct regional styles reflecting local traditions and architectural influences.",
+               "shortsample": "Mini-gardens"
             },
             {
                "id": "3",
                "familyname": "Dak",
                "name": "Medium",
                "width": "550",
-               "sampletext": "A VIEW OF SNOW-CAPPED PEAKS AS FAR AS THE EYE COULD SEE.",
-               "shortsample": "ZEST"
+               "sampletext": "Embracing sustainability, with options made from recycled materials and designed for easy disassembly and recycling at the end of their life cycle.",
+               "shortsample": "Modular"
             },
             {
                "id": "4",
                "familyname": "Dak",
                "name": "Demi",
                "width": "625",
-               "sampletext": "THE PANORAMA FROM THE TOP OF THE MOUNTAIN WAS BREATHTAKING",
-               "shortsample": "SPROUTS"
+               "sampletext": "Dual purposes, acting as both energy generators and water collectors, contributing to off-grid living solutions.",
+               "shortsample": "Precision"
             },
             {
                "id": "5",
                "familyname": "Dak",
                "name": "Bold",
                "width": "700",
-               "sampletext": "BUMBLEBEES FLEW FROM FLOWER TO FLOWER ACROSS THE LUSH GREEN LAWN",
-               "shortsample": "RUMOR"
+               "sampletext": "Crafted with precision and pride, embodying the craftsmanship of generations who honed their skills to perfection.",
+               "shortsample": "Resiliance"
             }
          ],
          "features": [
