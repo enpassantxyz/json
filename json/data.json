@@ -1340,42 +1340,54 @@
             },
             {
                "id": "2",
-               "name": "Alternative 'G",
-               "sampletext": "G – Generosity",
+               "name": "Alternative 'g'",
+               "sampletext": "g – generosity",
                "code": "ss02"
             },
             {
                "id": "3",
-               "name": "Alternative 'M'",
-               "sampletext": "M – Merge",
+               "name": "Alternative 'G'",
+               "sampletext": "G – Gems",
                "code": "ss03"
             },
             {
                "id": "4",
+               "name": "Alternative 'K'",
+               "sampletext": "K – Kimono",
+               "code": "ss04"
+            },
+            {
+               "id": "5",
+               "name": "Alternative 'M'",
+               "sampletext": "M – Merge",
+               "code": "ss05"
+            },
+            {
+               "id": "6",
                "name": "Tabular Lining/Monospace Numbers",
                "sampletext": "1234567890",
                "code": "tnum"
             },
             {
-               "id": "5",
+               "id": "7",
                "name": "Case Sensitive Forms",
                "sampletext": "H–[H]",
                "code": "case"
             },
             {
-               "id": "6",
+               "id": "8",
                "name": "Ligatures",
                "sampletext": "ff fi ffi",
                "code": "liga"
             },
             {
-               "id": "7",
+               "id": "9",
                "name": "Discretionary Ligatures",
                "sampletext": "fl ffl",
                "code": "dlig"
             },
             {
-               "id": "8",
+               "id": "10",
                "name": "Slashed Zero",
                "sampletext": "0",
                "code": "zero"
