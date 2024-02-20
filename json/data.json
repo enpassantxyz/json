@@ -2247,7 +2247,6 @@
                   {"unicode": "00E8" , "name": "egrave" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "è" },
                   {"unicode": "0113" , "name": "emacron" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ē" },
                   {"unicode": "0119" , "name": "eogonek" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ę" },
-                  {"unicode": "0259" , "name": "schwa" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ə" },
                   {"unicode": "011F" , "name": "gbreve" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ğ" },
                   {"unicode": "0123" , "name": "gcommaaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ģ" },
                   {"unicode": "0121" , "name": "gdotaccent" , "category": "Letter" , "subCategory": "None" , "script": "latin" , "codepoint": "ġ" },
