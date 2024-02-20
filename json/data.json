@@ -1898,19 +1898,22 @@
          "version": "1.001",
          "formats": "OTF, TTF (variable), WOFF, WOFF2",
          "description": "Dak",
-         "axis": "wght",
+         "axis": [
+            "wght",
+            "wdth"
+         ],
          "subfamilies": [
             {
                "id": "1",
                "name": "Condensed",
-               "opsz": "25",
+               "wdth": "25",
                "styles": [
                   {
                      "id": "1",
                      "familyname": "Dak",
                      "name": "Regular",
                      "weight": "400",
-                     "width": "200",
+                     "width": "25",
                      "sampletext": "Repairing themselves and adapting to changing environmental conditions for maximum durability.",
                      "shortsample": "Consensus"
                   },
@@ -1919,7 +1922,7 @@
                      "familyname": "Dak",
                      "name": "Screen",
                      "weight": "475",
-                     "width": "200",
+                     "width": "25",
                      "sampletext": "Symbols of cultural identity, with distinct regional styles reflecting local traditions and architectural influences.",
                      "shortsample": "Supplychain"
                   },
@@ -1928,7 +1931,7 @@
                      "familyname": "Dak",
                      "name": "Medium",
                      "weight": "550",
-                     "width": "200",
+                     "width": "25",
                      "sampletext": "Embracing sustainability, with options made from recycled materials and designed for easy disassembly and recycling at the end of their life cycle.",
                      "shortsample": "Home"
                   },
@@ -1937,7 +1940,7 @@
                      "familyname": "Dak",
                      "name": "Demi",
                      "weight": "625",
-                     "width": "200",
+                     "width": "25",
                      "sampletext": "Dual purposes, acting as both energy generators and water collectors, contributing to off-grid living solutions.",
                      "shortsample": "Cascade"
                   },
@@ -1946,7 +1949,7 @@
                      "familyname": "Dak",
                      "name": "Bold",
                      "weight": "700",
-                     "width": "200",
+                     "width": "25",
                      "sampletext": "Crafted with precision and pride, embodying the craftsmanship of generations who honed their skills to perfection.",
                      "shortsample": "Radiant"
                   }
@@ -1971,7 +1974,7 @@
                      "familyname": "Dak",
                      "name": "Screen",
                      "weight": "475",
-                     "width": "200",
+                     "width": "100",
                      "sampletext": "Symbols of cultural identity, with distinct regional styles reflecting local traditions and architectural influences.",
                      "shortsample": "Enigma"
                   },
@@ -1980,7 +1983,7 @@
                      "familyname": "Dak",
                      "name": "Medium",
                      "weight": "550",
-                     "width": "200",
+                     "width": "100",
                      "sampletext": "Embracing sustainability, with options made from recycled materials and designed for easy disassembly and recycling at the end of their life cycle.",
                      "shortsample": "Modular"
                   },
@@ -1989,7 +1992,7 @@
                      "familyname": "Dak",
                      "name": "Demi",
                      "weight": "625",
-                     "width": "200",
+                     "width": "100",
                      "sampletext": "Dual purposes, acting as both energy generators and water collectors, contributing to off-grid living solutions.",
                      "shortsample": "Precision"
                   },
@@ -1998,7 +2001,7 @@
                      "familyname": "Dak",
                      "name": "Bold",
                      "weight": "700",
-                     "width": "200",
+                     "width": "100",
                      "sampletext": "Crafted with precision and pride, embodying the craftsmanship of generations who honed their skills to perfection.",
                      "shortsample": "Resiliance"
                   }
