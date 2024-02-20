@@ -1916,7 +1916,7 @@
                      "weight": "400",
                      "width": "25",
                      "sampletext": "If I love you, I love you",
-                     "shortsample": "Partypeople"
+                     "shortsample": "Party"
                   },
                   {
                      "id": "2",
@@ -1926,7 +1926,7 @@
                      "weight": "475",
                      "width": "25",
                      "sampletext": "A teaspoon of honey is the lifework of 12 bees",
-                     "shortsample": "Supplychain"
+                     "shortsample": "Peperoni"
                   },
                   {
                      "id": "3",
@@ -1955,7 +1955,7 @@
                      "name": "Bold",
                      "weight": "700",
                      "width": "25",
-                     "sampletext": "Crafted with precision and pride, embodying the craftsmanship of generations who honed their skills to perfection.",
+                     "sampletext": "You are here/Vous etes ici",
                      "shortsample": "Zoetzuur"
                   }
                ]
@@ -2003,7 +2003,7 @@
                      "weight": "625",
                      "width": "100",
                      "sampletext": "When placing or moving your ceramics on surfaces, we recommend lifting them rather than sliding",
-                     "shortsample": "Precision"
+                     "shortsample": "Egel"
                   },
                   {
                      "id": "10",
