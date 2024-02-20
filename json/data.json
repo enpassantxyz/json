@@ -1915,7 +1915,7 @@
                      "name": "Regular",
                      "weight": "400",
                      "width": "25",
-                     "sampletext": "If I love you, I love you",
+                     "sampletext": "What a time to be alive and what a life to be on time",
                      "shortsample": "Party"
                   },
                   {
@@ -1955,7 +1955,7 @@
                      "name": "Bold",
                      "weight": "700",
                      "width": "25",
-                     "sampletext": "You are here/Vous etes ici",
+                     "sampletext": "You are here/Vous êtes ici",
                      "shortsample": "Zoetzuur"
                   }
                ]
@@ -2038,7 +2038,7 @@
                      "subfamily": "Extended",
                      "name": "Screen",
                      "weight": "475",
-                     "sampletext": "What a time to be alive and what a life to be on time",
+                     "sampletext": "If I love you, I love you",
                      "shortsample": "Mini-gardens"
                   },
                   {
