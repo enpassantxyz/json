@@ -311,7 +311,7 @@
                      "name": "Medium Italic",
                      "weight": "500",
                      "sampletext": "Good Morning Grandmaster",
-                     "shortsample": "Postfaktisch"
+                     "shortsample": "Window"
                   },
                   {
                      "id": "5",
@@ -849,7 +849,7 @@
                "name": "Medium",
                "weight": "500",
                "sampletext": "The exact time of sunset may vary depending on the time of year and geographical location.",
-               "shortsample": "Armageddon"
+               "shortsample": "Takeaway"
             },
             {
                "id": "3",
