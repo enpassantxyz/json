@@ -1911,6 +1911,7 @@
                   {
                      "id": "1",
                      "familyname": "Dak",
+                     "subfamily": "Condensed",
                      "name": "Regular",
                      "weight": "400",
                      "width": "25",
@@ -1920,6 +1921,7 @@
                   {
                      "id": "2",
                      "familyname": "Dak",
+                     "subfamily": "Condensed",
                      "name": "Screen",
                      "weight": "475",
                      "width": "25",
@@ -1929,6 +1931,7 @@
                   {
                      "id": "3",
                      "familyname": "Dak",
+                     "subfamily": "Condensed",
                      "name": "Medium",
                      "weight": "550",
                      "width": "25",
@@ -1938,6 +1941,7 @@
                   {
                      "id": "4",
                      "familyname": "Dak",
+                     "subfamily": "Condensed",
                      "name": "Demi",
                      "weight": "625",
                      "width": "25",
@@ -1947,6 +1951,7 @@
                   {
                      "id": "5",
                      "familyname": "Dak",
+                     "subfamily": "Condensed",
                      "name": "Bold",
                      "weight": "700",
                      "width": "25",
@@ -1957,12 +1962,13 @@
             },
             {
                "id": "2",
-               "name": "",
+               "name": "Normal",
                "wdth": "100",
                "styles": [
                   {
                      "id": "6",
                      "familyname": "Dak",
+                     "subfamily": "Normal",
                      "name": "Regular",
                      "weight": "400",
                      "width": "200",
@@ -1972,6 +1978,7 @@
                   {
                      "id": "7",
                      "familyname": "Dak",
+                     "subfamily": "Normal",
                      "name": "Screen",
                      "weight": "475",
                      "width": "100",
@@ -1981,6 +1988,7 @@
                   {
                      "id": "8",
                      "familyname": "Dak",
+                     "subfamily": "Normal",
                      "name": "Medium",
                      "weight": "550",
                      "width": "100",
@@ -1990,6 +1998,7 @@
                   {
                      "id": "9",
                      "familyname": "Dak",
+                     "subfamily": "Normal",
                      "name": "Demi",
                      "weight": "625",
                      "width": "100",
@@ -1999,6 +2008,7 @@
                   {
                      "id": "10",
                      "familyname": "Dak",
+                     "subfamily": "Normal",
                      "name": "Bold",
                      "weight": "700",
                      "width": "100",
@@ -2015,6 +2025,7 @@
                   {
                      "id": "11",
                      "familyname": "Dak",
+                     "subfamily": "Extended",
                      "name": "Regular",
                      "weight": "400",
                      "width": "200",
@@ -2024,6 +2035,7 @@
                   {
                      "id": "12",
                      "familyname": "Dak",
+                     "subfamily": "Extended",
                      "name": "Screen",
                      "weight": "475",
                      "sampletext": "Symbols of cultural identity, with distinct regional styles reflecting local traditions and architectural influences.",
@@ -2032,6 +2044,7 @@
                   {
                      "id": "13",
                      "familyname": "Dak",
+                     "subfamily": "Extended",
                      "name": "Medium",
                      "weight": "550",
                      "width": "200",
@@ -2041,6 +2054,7 @@
                   {
                      "id": "14",
                      "familyname": "Dak",
+                     "subfamily": "Extended",
                      "name": "Demi",
                      "weight": "625",
                      "width": "200",
@@ -2050,6 +2064,7 @@
                   {
                      "id": "15",
                      "familyname": "Dak",
+                     "subfamily": "Extended",
                      "name": "Bold",
                      "weight": "700",
                      "width": "200",
