@@ -1953,110 +1953,108 @@
                ]
             },
             {
-            "id": "2",
-            "name": "",
-            "wdth": "100",
-            "styles": 
-            [
-               {
-                  "id": "6",
-                  "familyname": "Dak",
-                  "name": "Regular",
-                  "weight": "400",
-                  "width": "200",
-                  "sampletext": "Repairing themselves and adapting to changing environmental conditions for maximum durability.",
-                  "shortsample": "Luminous"
-               },
-               {
-                  "id": "7",
-                  "familyname": "Dak",
-                  "name": "Screen",
-                  "weight": "475",
-                  "width": "200",
-                  "sampletext": "Symbols of cultural identity, with distinct regional styles reflecting local traditions and architectural influences.",
-                  "shortsample": "Enigma"
-               },
-               {
-                  "id": "8",
-                  "familyname": "Dak",
-                  "name": "Medium",
-                  "weight": "550",
-                  "width": "200",
-                  "sampletext": "Embracing sustainability, with options made from recycled materials and designed for easy disassembly and recycling at the end of their life cycle.",
-                  "shortsample": "Modular"
-               },
-               {
-                  "id": "9",
-                  "familyname": "Dak",
-                  "name": "Demi",
-                  "weight": "625",
-                  "width": "200",
-                  "sampletext": "Dual purposes, acting as both energy generators and water collectors, contributing to off-grid living solutions.",
-                  "shortsample": "Precision"
-               },
-               {
-                  "id": "10",
-                  "familyname": "Dak",
-                  "name": "Bold",
-                  "weight": "700",
-                  "width": "200",
-                  "sampletext": "Crafted with precision and pride, embodying the craftsmanship of generations who honed their skills to perfection.",
-                  "shortsample": "Resiliance"
-               }
-            ]
-         },
-         {
-            "id": "3",
-            "name": "Extended",
-            "wdth": "200",
-            "styles": 
-            [
-               {
-                  "id": "11",
-                  "familyname": "Dak",
-                  "name": "Extended Regular",
-                  "weight": "400",
-                  "width": "200",
-                  "sampletext": "Repairing themselves and adapting to changing environmental conditions for maximum durability.",
-                  "shortsample": "Artisans"
-               },
-               {
-                  "id": "12",
-                  "familyname": "Dak",
-                  "name": "Extended Screen",
-                  "weight": "475",
-                  "sampletext": "Symbols of cultural identity, with distinct regional styles reflecting local traditions and architectural influences.",
-                  "shortsample": "Mini-gardens"
-               },
-               {
-                  "id": "13",
-                  "familyname": "Dak",
-                  "name": "Extended Medium",
-                  "weight": "550",
-                  "width": "200",
-                  "sampletext": "Embracing sustainability, with options made from recycled materials and designed for easy disassembly and recycling at the end of their life cycle.",
-                  "shortsample": "Modular"
-               },
-               {
-                  "id": "14",
-                  "familyname": "Dak",
-                  "name": "Extended Demi",
-                  "weight": "625",
-                  "width": "200",
-                  "sampletext": "Dual purposes, acting as both energy generators and water collectors, contributing to off-grid living solutions.",
-                  "shortsample": "Precision"
-               },
-               {
-                  "id": "15",
-                  "familyname": "Dak",
-                  "name": "Extended Bold",
-                  "weight": "700",
-                  "width": "200",
-                  "sampletext": "Crafted with precision and pride, embodying the craftsmanship of generations who honed their skills to perfection.",
-                  "shortsample": "Resiliance"
-               }
+               "id": "2",
+               "name": "",
+               "wdth": "100",
+               "styles": [
+                  {
+                     "id": "6",
+                     "familyname": "Dak",
+                     "name": "Regular",
+                     "weight": "400",
+                     "width": "200",
+                     "sampletext": "Repairing themselves and adapting to changing environmental conditions for maximum durability.",
+                     "shortsample": "Luminous"
+                  },
+                  {
+                     "id": "7",
+                     "familyname": "Dak",
+                     "name": "Screen",
+                     "weight": "475",
+                     "width": "200",
+                     "sampletext": "Symbols of cultural identity, with distinct regional styles reflecting local traditions and architectural influences.",
+                     "shortsample": "Enigma"
+                  },
+                  {
+                     "id": "8",
+                     "familyname": "Dak",
+                     "name": "Medium",
+                     "weight": "550",
+                     "width": "200",
+                     "sampletext": "Embracing sustainability, with options made from recycled materials and designed for easy disassembly and recycling at the end of their life cycle.",
+                     "shortsample": "Modular"
+                  },
+                  {
+                     "id": "9",
+                     "familyname": "Dak",
+                     "name": "Demi",
+                     "weight": "625",
+                     "width": "200",
+                     "sampletext": "Dual purposes, acting as both energy generators and water collectors, contributing to off-grid living solutions.",
+                     "shortsample": "Precision"
+                  },
+                  {
+                     "id": "10",
+                     "familyname": "Dak",
+                     "name": "Bold",
+                     "weight": "700",
+                     "width": "200",
+                     "sampletext": "Crafted with precision and pride, embodying the craftsmanship of generations who honed their skills to perfection.",
+                     "shortsample": "Resiliance"
+                  }
                ]
             },
+            {
+               "id": "3",
+               "name": "Extended",
+               "wdth": "200",
+               "styles": [
+                  {
+                     "id": "11",
+                     "familyname": "Dak",
+                     "name": "Extended Regular",
+                     "weight": "400",
+                     "width": "200",
+                     "sampletext": "Repairing themselves and adapting to changing environmental conditions for maximum durability.",
+                     "shortsample": "Artisans"
+                  },
+                  {
+                     "id": "12",
+                     "familyname": "Dak",
+                     "name": "Extended Screen",
+                     "weight": "475",
+                     "sampletext": "Symbols of cultural identity, with distinct regional styles reflecting local traditions and architectural influences.",
+                     "shortsample": "Mini-gardens"
+                  },
+                  {
+                     "id": "13",
+                     "familyname": "Dak",
+                     "name": "Extended Medium",
+                     "weight": "550",
+                     "width": "200",
+                     "sampletext": "Embracing sustainability, with options made from recycled materials and designed for easy disassembly and recycling at the end of their life cycle.",
+                     "shortsample": "Modular"
+                  },
+                  {
+                     "id": "14",
+                     "familyname": "Dak",
+                     "name": "Extended Demi",
+                     "weight": "625",
+                     "width": "200",
+                     "sampletext": "Dual purposes, acting as both energy generators and water collectors, contributing to off-grid living solutions.",
+                     "shortsample": "Precision"
+                  },
+                  {
+                     "id": "15",
+                     "familyname": "Dak",
+                     "name": "Extended Bold",
+                     "weight": "700",
+                     "width": "200",
+                     "sampletext": "Crafted with precision and pride, embodying the craftsmanship of generations who honed their skills to perfection.",
+                     "shortsample": "Resiliance"
+                  }
+               ]
+            }
          ],
          "features": [
             {
