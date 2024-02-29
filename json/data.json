@@ -66,7 +66,7 @@
                      "name": "Semibold",
                      "weight": "600",
                      "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8",
-                     "shortsample": "Bungalow"
+                     "shortsample": "Potgrond"
                   },
                   {
                      "id": "6",
@@ -95,7 +95,7 @@
                      "isitalic": true,
                      "name": "Bold Italic",
                      "weight": "700",
-                     "sampletext": "Sarcofagen & Salopetten of Kabeljauw & Bungalow",
+                     "sampletext": "Your phone is made of anxiety",
                      "shortsample": "Flamingo"
                   },
                   {
@@ -192,7 +192,7 @@
                      "isitalic": false,
                      "name": "Semibold",
                      "weight": "600",
-                     "sampletext": "1.c4 Nf6 2.d4 e6 3.Nf3 b6 4.a3 Bb7 5.Bf4 Be7 6.Nc3 O-O 7.Rc1 Na6 8.h3 d5 9.e3 c5 10.Nb5 cxd4 11.exd4 dxc4 12.Bxc4 Nd5 13.Be5 Nac7 14.Nxc7 Nxc7 15.O-O Rc8 16.Qe2 h6 17.Bd3 Bf6 18.Rfe1 Bxe5 19.Qxe5 Nd5 20.Rxc8",
+                     "sampletext": "It’s good and bad and very clever",
                      "shortsample": "Intermezzo"
                   },
                   {
@@ -350,7 +350,7 @@
                      "isitalic": true,
                      "name": "Bold Italic",
                      "weight": "700",
-                     "sampletext": "Sarcofagen & Salopetten of Kabeljauw & Bungalow",
+                     "sampletext": "The cat went pssst pssst pssst and the cow replied nothing",
                      "shortsample": "Fuchsia"
                   },
                   {
@@ -833,14 +833,14 @@
                "name": "Light",
                "weight": "300",
                "sampletext": "Dinner music turns into dancing music turns into party music",
-               "shortsample": "Gomashio"
+               "shortsample": "Gomasio"
             },
             {
                "id": "2",
                "familyname": "Avond",
                "name": "Regular",
                "weight": "400",
-               "sampletext": "It's time to pretent to have dinner with me",
+               "sampletext": "Find me at home, I’m still tired from the party",
                "shortsample": "Pantoffels"
             },
             {
@@ -848,7 +848,7 @@
                "familyname": "Avond",
                "name": "Medium",
                "weight": "500",
-               "sampletext": "During the evening the sky gradually transitions from bright daylight to a colorful sunset",
+               "sampletext": "And here we are, together at last",
                "shortsample": "Takeaway"
             },
             {
@@ -1295,7 +1295,7 @@
                "familyname": "Depeche",
                "name": "Light",
                "weight": "300",
-               "sampletext": "Tarp ou tarpaulin (bâche) blau Afdekzeil",
+               "sampletext": "But in the end *plot twist* ",
                "shortsample": "Spaceship"
             },
             {
@@ -1319,7 +1319,7 @@
                "familyname": "Depeche",
                "name": "Semibold",
                "weight": "600",
-               "sampletext": "Rosemarie & Rico Baltensweiler — Pentarkus",
+               "sampletext": "It's time to pretent to have dinner with me",
                "shortsample": "Fenêtre"
             },
             {
@@ -1795,7 +1795,7 @@
                "familyname": "Kimchi",
                "name": "Normal",
                "width": "50",
-               "sampletext": "A VIEW OF SNOW-CAPPED PEAKS AS FAR AS THE EYE COULD SEE.",
+               "sampletext": "CALL 876-SEE YOU LATER-532",
                "shortsample": "ZEST"
             },
             {
@@ -2058,7 +2058,7 @@
                      "name": "Demi",
                      "weight": "625",
                      "width": "200",
-                     "sampletext": "Correct me if I’m wrong but",
+                     "sampletext": "Landelijke Hoge Venen zwemvijver 88€ per nacht",
                      "shortsample": "Vongole"
                   },
                   {
@@ -2068,7 +2068,7 @@
                      "name": "Bold",
                      "weight": "700",
                      "width": "200",
-                     "sampletext": "I call this a weekend well spent",
+                     "sampletext": "Correct me if I’m wrong but I call this a weekend well spent",
                      "shortsample": "Resiliance"
                   }
                ]
