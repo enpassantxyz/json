@@ -12,6 +12,7 @@
             "wght",
             "opsz"
          ],
+         "withSubfamilies": true,
          "subfamilies": [
             {
                "id": "1",
@@ -826,6 +827,7 @@
          "formats": "OTF, TTF (variable), WOFF, WOFF2",
          "description": "Avond is an sharp and elegant display Serif family. Avond is the time of the day when people gather and social events happen, a moment worthy to remember.",
          "axis": "wght",
+         "withSubfamilies": false,
          "styles": [
             {
                "id": "1",
@@ -1281,6 +1283,7 @@
          "formats": "OTF, TTF (variable), WOFF, WOFF2",
          "description": "Depeche is a funky sans influenced by the linge clair drawing movement known from the likes of Tin Tin. Initially only a line version was created. Later in 2022 the family was extended with a range of different weights.",
          "axis": "wght",
+         "withSubfamilies": false,
          "styles": [
             {
                "id": "1",
@@ -1773,13 +1776,14 @@
          "formats": "OTF, TTF (variable), WOFF, WOFF2",
          "description": "Kimchi",
          "axis": "wdth",
+         "withSubfamilies": false,
          "styles": [
             {
                "id": "1",
                "familyname": "Kimchi",
                "name": "Compressed",
                "width": "0",
-               "sampletext": "AFTER MONTHS OF HARD WORK AND DEDICATION, THE TEAM FINALLY LAUNCHED THEIR NEW APP, AND THEY COULDN'T BE HAPPIER WITH THE RESULTS.",
+               "sampletext": "A VIEW OF SNOW-CAPPED PEAKS AS FAR AS THE EYE COULD SEE.",
                "shortsample": "AUTOMATON"
             },
             {
@@ -1804,7 +1808,7 @@
                "name": "Extended",
                "width": "75",
                "sampletext": "THE PANORAMA FROM THE TOP OF THE MOUNTAIN WAS BREATHTAKING",
-               "shortsample": "SPROUTS"
+               "shortsample": "1957"
             },
             {
                "id": "5",
@@ -1902,6 +1906,7 @@
             "wght",
             "wdth"
          ],
+         "withSubfamilies": true,
          "subfamilies": [
             {
                "id": "1",
