@@ -2376,7 +2376,7 @@
       },
       {
          "id": "6",
-         "name": "Ramen",
+         "name": "ramen",
          "designer": "Tom Van Keer",
          "languages": "",
          "version": "1.001",
@@ -2421,7 +2421,7 @@
             {
                "id": "8",
                "name": "Slashed Zero",
-               "sampletext": "0.12",
+               "sampletext": "0",
                "code": "zero"
             }
          ],
