@@ -12,7 +12,7 @@
             "wght",
             "opsz"
          ],
-         "withSubfamilies": true,
+         "hasSubfamilies": true,
          "subfamilies": [
             {
                "id": "1",
@@ -827,7 +827,7 @@
          "formats": "OTF, TTF (variable), WOFF, WOFF2",
          "description": "Avond is an sharp and elegant display Serif family. Avond is the time of the day when people gather and social events happen, a moment worthy to remember.",
          "axis": "wght",
-         "withSubfamilies": false,
+         "hasSubfamilies": false,
          "styles": [
             {
                "id": "1",
@@ -1283,7 +1283,7 @@
          "formats": "OTF, TTF (variable), WOFF, WOFF2",
          "description": "Depeche is a funky sans influenced by the linge clair drawing movement known from the likes of Tin Tin. Initially only a line version was created. Later in 2022 the family was extended with a range of different weights.",
          "axis": "wght",
-         "withSubfamilies": false,
+         "hasSubfamilies": false,
          "styles": [
             {
                "id": "1",
@@ -1776,7 +1776,7 @@
          "formats": "OTF, TTF (variable), WOFF, WOFF2",
          "description": "Kimchi",
          "axis": "wdth",
-         "withSubfamilies": false,
+         "hasSubfamilies": false,
          "styles": [
             {
                "id": "1",
@@ -1906,7 +1906,7 @@
             "wght",
             "wdth"
          ],
-         "withSubfamilies": true,
+         "hasSubfamilies": true,
          "subfamilies": [
             {
                "id": "1",
@@ -2372,6 +2372,60 @@
                   {"unicode": "005E" , "name": "asciicircum" , "category": "Symbol" , "subCategory": "Math" , "script": "None" , "codepoint": "^" }
                   ]
             }
+         ]
+      },
+      {
+         "id": "6",
+         "name": "Ramen",
+         "designer": "Tom Van Keer",
+         "languages": "",
+         "version": "1.001",
+         "formats": "OTF, TTF (variable), WOFF, WOFF2",
+         "description": "Ramen",
+         "axis": null,
+         "hasSubfamilies": false,
+         "styles": [
+            {
+               "id": "1",
+               "familyname": "Ramen",
+               "name": "Regular",
+               "sampletext": "4 oranges left alone",
+               "shortsample": "Opera"
+            }
+         ],
+         "features": [
+            {
+               "id": "1",
+               "name": "Alternative 'a'",
+               "sampletext": "a — Karaoke",
+               "code": "ss01"
+            },
+            {
+               "id": "2",
+               "name": "Alternative 'R' and 'K'",
+               "sampletext": "g – ROOK & KING",
+               "code": "ss02"
+            },
+            {
+               "id": "3",
+               "name": "Case Sensitive Forms",
+               "sampletext": "A–B[AB]",
+               "code": "case"
+            },
+            {
+               "id": "4",
+               "name": "Ligatures",
+               "sampletext": "ff fl fi",
+               "code": "liga"
+            },
+            {
+               "id": "8",
+               "name": "Slashed Zero",
+               "sampletext": "0.12",
+               "code": "zero"
+            }
+         ],
+         "characterset": [
          ]
       }
       
